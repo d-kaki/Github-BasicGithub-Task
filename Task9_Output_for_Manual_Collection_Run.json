@@ -1,0 +1,200 @@
+{
+	"id": "3e93950c-603a-4431-a4a2-c876ccd60305",
+	"name": "TASK 8",
+	"timestamp": "2023-03-09T08:01:09.415Z",
+	"collection_id": "25896363-30420035-1ca4-4aaa-8170-430cee019853",
+	"folder_id": 0,
+	"environment_id": "25896363-36f8eadc-3161-453a-b8df-bb29496dcf68",
+	"totalPass": 12,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-03-09T08:01:05.233Z",
+	"totalFail": 1,
+	"results": [
+		{
+			"id": "07b9a087-08e7-4631-bb4a-6cb2eb6de510",
+			"name": "TASK 8A - Find Pets by Status",
+			"url": "https://petstore.swagger.io/v2/pet/findByStatus?status=available&status=available",
+			"time": 350,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is OK": true,
+				"confirm that category id for first object is zero": true,
+				"confirm that pet status is available": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"confirm that category id for first object is zero": {
+					"pass": 1,
+					"fail": 0
+				},
+				"confirm that pet status is available": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				350
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is OK": true,
+					"confirm that category id for first object is zero": true,
+					"confirm that pet status is available": true
+				}
+			]
+		},
+		{
+			"id": "095df2fa-1d67-4bc8-acbe-456fa0277760",
+			"name": "Task 8 B- Finds Pets by status",
+			"url": "https://petstore.swagger.io/v2/pet/findByStatus?status=available&status=available",
+			"time": 1698,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Check to see that Status code is 200": true,
+				"Status code is OK": true,
+				"Search for pet named doggie": false,
+				"Check whether pet is available": true
+			},
+			"testPassFailCounts": {
+				"Check to see that Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Search for pet named doggie": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Check whether pet is available": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				1698
+			],
+			"allTests": [
+				{
+					"Check to see that Status code is 200": true,
+					"Status code is OK": true,
+					"Search for pet named doggie": false,
+					"Check whether pet is available": true
+				}
+			]
+		},
+		{
+			"id": "1cdceda2-dfa7-4952-8a6c-9ec9fc56fa0d",
+			"name": "Task 8 B - Update an existing pet",
+			"url": "https://petstore.swagger.io/v2/pet",
+			"time": 302,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is OK": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				302
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is OK": true
+				}
+			]
+		},
+		{
+			"id": "e38d635a-eb9c-4900-85ef-2e871b923f97",
+			"name": "Task 8 B - Place an order for a pet",
+			"url": "https://petstore.swagger.io/v2/store/order",
+			"time": 805,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Status code is OK": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				805
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Status code is OK": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 3155,
+	"collection": {
+		"requests": [
+			{
+				"id": "07b9a087-08e7-4631-bb4a-6cb2eb6de510",
+				"method": "GET"
+			},
+			{
+				"id": "095df2fa-1d67-4bc8-acbe-456fa0277760",
+				"method": "GET"
+			},
+			{
+				"id": "1cdceda2-dfa7-4952-8a6c-9ec9fc56fa0d",
+				"method": "PUT"
+			},
+			{
+				"id": "e38d635a-eb9c-4900-85ef-2e871b923f97",
+				"method": "POST"
+			}
+		]
+	}
+}
