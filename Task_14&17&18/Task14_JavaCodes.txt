@@ -1,0 +1,21 @@
+
+Main.java
+1        public class Main {
+2            static {
+3                System.out.println("FIRST JAVA PROJECT");
+4                System.out.println("Written by David Kaki");
+5                System.out.println("January 2023 Cohort");
+6            }
+7            public static void main(String[] args) {
+8                System.out.println("Hello world. This is my First Project!");
+9                System.out.println("My name is David Kaki");
+10               System.out.println("I am from Benue State and reside in Makurdi. I am a medical Physicist switching to Software testing via Testify Academy");
+11               System.out.println("As a medical Physicist, I use my knowledge of physics to help diagnose and treat patients.");
+12               System.out.println("I use radiation and imaging equipment to create images of the body and analyze them.");
+13               System.out.println("I collaborates with doctors and other medical professionals to determine the best course of treatment for patients.");
+14               System.out.println("I enjoy working in the healthcare field because I feel like I am making a difference in people's lives.");
+15               System.out.println("In my free time, I enjoy spending time with his family.");
+16               System.out.println("Tech is my new hobby.");
+17               System.out.println("I am grateful for the opportunity to develop and build.");
+18           }
+19       }
