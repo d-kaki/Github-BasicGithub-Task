@@ -1,34 +1,32 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: http://192.168.43.79:60820/index.html
+Snapshot-Content-Location: http://192.168.1.191:64964/index.html#
 Subject: Allure Report
-Date: Fri, 24 Mar 2023 10:38:20 -0000
+Date: Sat, 25 Mar 2023 13:06:13 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----"
+	boundary="----MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----"
 
 
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----
 Content-Type: text/html
-Content-ID: <frame-B545C05C7EA4F8EBC7D7D31AA385533A@mhtml.blink>
+Content-ID: <frame-DC53C1FA46CCA32297E49D315D3F48F8@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://192.168.43.79:60820/index.html
+Content-Location: http://192.168.1.191:64964/index.html#
 
 <!DOCTYPE html><html dir=3D"ltr"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-b2623f2b-b57d-4728-a6cc-4ded60988654@mhtml.blink" /><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c95a7989-2f76-4637=
--8f4f-b51c333f805e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
-" href=3D"cid:css-b19bcc3d-0e14-469d-8647-9f7180cc650a@mhtml.blink" /><link=
- rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-756b7a41-caf8-4a6f-9e=
-d2-e0ca4f9f605c@mhtml.blink" />
+css" href=3D"cid:css-874c5804-00e2-408d-907a-9528f57982be@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4a679676-2438-4cf2=
+-b774-0f3256b1e6e3@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-50798c2a-5473-4e48-852c-687a70bc8429@mhtml.blink" />
    =20
     <title>Allure Report</title>
-    <link rel=3D"favicon" href=3D"http://192.168.43.79:60820/favicon.ico?v=
+    <link rel=3D"favicon" href=3D"http://192.168.1.191:64964/favicon.ico?v=
 =3D2">
-    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://192.168.43.79=
-:60820/styles.css">
-        <link rel=3D"stylesheet" href=3D"http://192.168.43.79:60820/plugins=
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://192.168.1.191=
+:64964/styles.css">
+        <link rel=3D"stylesheet" href=3D"http://192.168.1.191:64964/plugins=
 /screen-diff/styles.css">
 </head>
 <body data-new-gr-c-s-check-loaded=3D"14.1101.0" data-gr-ext-installed=3D""=
@@ -36,55 +34,55 @@ d2-e0ca4f9f605c@mhtml.blink" />
 <div id=3D"alert"></div>
 <div id=3D"content"><div class=3D"app"><div class=3D"app__nav"><div class=
 =3D"side-nav"><div class=3D"side-nav__head">
-    <a href=3D"http://192.168.43.79:60820/" class=3D"side-nav__brand">
+    <a href=3D"http://192.168.1.191:64964/" class=3D"side-nav__brand">
         <span class=3D"side-nav__brand-text">Allure</span>
     </a>
 </div>
 <ul class=3D"side-nav__menu">
         <li class=3D"side-nav__item" data-tooltip=3D"Overview">
-            <a href=3D"http://192.168.43.79:60820/index.html#" class=3D"sid=
+            <a href=3D"http://192.168.1.191:64964/index.html#" class=3D"sid=
 e-nav__link side-nav__link_active">
                 <span class=3D"side-nav__icon fa fa-home"></span>
                 <div class=3D"side-nav__text">Overview</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Categories">
-            <a href=3D"http://192.168.43.79:60820/index.html#categories" cl=
+            <a href=3D"http://192.168.1.191:64964/index.html#categories" cl=
 ass=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-flag"></span>
                 <div class=3D"side-nav__text">Categories</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Suites">
-            <a href=3D"http://192.168.43.79:60820/index.html#suites" class=
+            <a href=3D"http://192.168.1.191:64964/index.html#suites" class=
 =3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-briefcase"></span>
                 <div class=3D"side-nav__text">Suites</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Graphs">
-            <a href=3D"http://192.168.43.79:60820/index.html#graph" class=
+            <a href=3D"http://192.168.1.191:64964/index.html#graph" class=
 =3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-bar-chart"></span>
                 <div class=3D"side-nav__text">Graphs</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Timeline">
-            <a href=3D"http://192.168.43.79:60820/index.html#timeline" clas=
+            <a href=3D"http://192.168.1.191:64964/index.html#timeline" clas=
 s=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-clock-o"></span>
                 <div class=3D"side-nav__text">Timeline</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Behaviors">
-            <a href=3D"http://192.168.43.79:60820/index.html#behaviors" cla=
+            <a href=3D"http://192.168.1.191:64964/index.html#behaviors" cla=
 ss=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-list"></span>
                 <div class=3D"side-nav__text">Behaviors</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Packages">
-            <a href=3D"http://192.168.43.79:60820/index.html#packages" clas=
+            <a href=3D"http://192.168.1.191:64964/index.html#packages" clas=
 s=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-align-left"></span>
                 <div class=3D"side-nav__text">Packages</div>
@@ -116,27 +114,27 @@ ts-grid__col"><div class=3D"widget island" data-id=3D"summary">
     <div class=3D"widget__body"><div><div class=3D"widget__flex-line">
     <div class=3D"widget__column">
         <h2 class=3D"widget__title">
-                Allure Report 3/24/2023
+                Allure Report 3/25/2023
             <div class=3D"widget__subtitle">
-                18:24:27 - 11:30:57 (17h 06m)
+                18:24:27 - 13:27:37 (1d 19h)
             </div>
         </h2>
         <div class=3D"summary-widget__stats splash">
-            <div class=3D"splash__title">21</div>
+            <div class=3D"splash__title">22</div>
             <div class=3D"splash__subtitle">test cases</div>
         </div>
     </div>
     <div class=3D"widget__column summary-widget__chart"><div><svg class=3D"=
 chart__svg">
-    <g class=3D"chart__plot" transform=3D"translate(133.75,101)"><path clas=
-s=3D"chart__arc chart__fill_status_broken" d=3D"M5.572142936120457e-15,-91A=
-91,91,0,0,1,71.14666490459071,-56.737571969144746L56.91733192367257,-45.390=
-057575315794A72.8,72.8,0,0,0,4.457714348896366e-15,-72.8Z"></path><path cla=
-ss=3D"chart__arc chart__fill_status_passed" d=3D"M71.14666490459071,-56.737=
-571969144746A91,91,0,1,1,-1.671642880836137e-14,-91L-1.3373143046689095e-14=
-,-72.8A72.8,72.8,0,1,0,56.91733192367257,-45.390057575315794Z"></path><text=
- class=3D"chart__caption" dy=3D"0.4em" style=3D"font-size: 30.3333px;">85.7=
-1%</text></g>
+    <g class=3D"chart__plot" transform=3D"translate(131.625,101)"><path cla=
+ss=3D"chart__arc chart__fill_status_broken" d=3D"M5.572142936120457e-15,-91=
+A91,91,0,0,1,25.63766267257011,-87.31386059891926L20.510130138056088,-69.85=
+10884791354A72.8,72.8,0,0,0,4.457714348896366e-15,-72.8Z"></path><path clas=
+s=3D"chart__arc chart__fill_status_passed" d=3D"M25.63766267257011,-87.3138=
+6059891926A91,91,0,1,1,-1.671642880836137e-14,-91L-1.3373143046689095e-14,-=
+72.8A72.8,72.8,0,1,0,20.510130138056088,-69.8510884791354Z"></path><text cl=
+ass=3D"chart__caption" dy=3D"0.4em" style=3D"font-size: 30.3333px;">95.45%<=
+/text></g>
     <g class=3D"chart__axis chart__axis_x"></g>
     <g class=3D"chart__axis chart__axis_y"></g>
 </svg></div></div>
@@ -151,16 +149,16 @@ ss=3D"chart__arc chart__fill_status_passed" d=3D"M71.14666490459071,-56.737=
     <span class=3D"widget__subtitle">1 item total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://192.168.43.79:60820/index.ht=
+        <a class=3D"table__row" href=3D"http://192.168.1.191:64964/index.ht=
 ml#suites/8399274b4bb69ec8699907dd6ef7de4e">
             <div class=3D"table__col">Default Suite</div>
             <div class=3D"table__col">
                 <div class=3D"bar"><div class=3D"bar__fill bar__fill_status=
-_broken" style=3D"flex-grow: 3">3</div><div class=3D"bar__fill bar__fill_st=
-atus_passed" style=3D"flex-grow: 18">18</div></div>
+_broken" style=3D"flex-grow: 1">1</div><div class=3D"bar__fill bar__fill_st=
+atus_passed" style=3D"flex-grow: 21">21</div></div>
             </div>
         </a>
-        <a class=3D"table__row" href=3D"http://192.168.43.79:60820/index.ht=
+        <a class=3D"table__row" href=3D"http://192.168.1.191:64964/index.ht=
 ml#suites">
             <div class=3D"table__col table__col_center">
                 Show all
@@ -183,10 +181,10 @@ ml#suites">
     </div>
     <div class=3D"widget__body"><div><h2 class=3D"widget__title">
     Features by stories
-    <span class=3D"widget__subtitle">21 items total</span>
+    <span class=3D"widget__subtitle">22 items total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://192.168.43.79:60820/index.ht=
+        <a class=3D"table__row" href=3D"http://192.168.1.191:64964/index.ht=
 ml#behaviors">
             <div class=3D"table__col table__col_center">
                 Show all
@@ -215,15 +213,15 @@ re is nothing to show</div></div></div>
     <span class=3D"widget__subtitle">1 item total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://192.168.43.79:60820/index.ht=
+        <a class=3D"table__row" href=3D"http://192.168.1.191:64964/index.ht=
 ml#categories/bdbf199525818fae7a8651db9eafe741">
             <div class=3D"table__col">Test defects</div>
             <div class=3D"table__col">
                 <div class=3D"bar"><div class=3D"bar__fill bar__fill_status=
-_broken" style=3D"flex-grow: 3">3</div></div>
+_broken" style=3D"flex-grow: 1">1</div></div>
             </div>
         </a>
-        <a class=3D"table__row" href=3D"http://192.168.43.79:60820/index.ht=
+        <a class=3D"table__row" href=3D"http://192.168.1.191:64964/index.ht=
 ml#categories">
             <div class=3D"table__col table__col_center">
                 Show all
@@ -424,176 +422,11 @@ l; widows: initial; width: initial; will-change: initial; word-break: initi=
 al; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><l=
 ink rel=3D"stylesheet" href=3D"chrome-extension://gpaiobkfhnonedkhhfjpmhdal=
 geoebfa/fonts/fabric-icons.css"><div style=3D"all: initial;"><template shad=
-owmode=3D"open"></template></div></div></div></editor-card><editor-card sty=
-le=3D"position:absolute;top:0px;left:0px;z-index:auto;display: block !impor=
-tant"><div dir=3D"ltr" style=3D"all: initial;"><div style=3D"color: initial=
-; font: initial; font-palette: initial; font-synthesis: initial; forced-col=
-or-adjust: initial; text-orientation: initial; text-rendering: initial; -we=
-bkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orienta=
-tion: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: =
-initial; accent-color: initial; place-content: initial; place-items: initia=
-l; place-self: initial; alignment-baseline: initial; animation: initial; ap=
-p-region: initial; appearance: initial; aspect-ratio: initial; backdrop-fil=
-ter: initial; backface-visibility: initial; background: initial; background=
--blend-mode: initial; baseline-shift: initial; baseline-source: initial; bl=
-ock-size: initial; border-block: initial; border: initial; border-radius: i=
-nitial; border-collapse: initial; border-end-end-radius: initial; border-en=
-d-start-radius: initial; border-inline: initial; border-start-end-radius: i=
-nitial; border-start-start-radius: initial; inset: initial; box-shadow: ini=
-tial; box-sizing: initial; break-after: initial; break-before: initial; bre=
-ak-inside: initial; buffered-rendering: initial; caption-side: initial; car=
-et-color: initial; clear: initial; clip: initial; clip-path: initial; clip-=
-rule: initial; color-interpolation: initial; color-interpolation-filters: i=
-nitial; color-rendering: initial; color-scheme: initial; columns: initial; =
-column-fill: initial; gap: initial; column-rule: initial; column-span: init=
-ial; contain: initial; contain-intrinsic-block-size: initial; contain-intri=
-nsic-size: initial; contain-intrinsic-inline-size: initial; container: init=
-ial; content: initial; content-visibility: initial; counter-increment: init=
-ial; counter-reset: initial; counter-set: initial; cursor: initial; cx: ini=
-tial; cy: initial; d: initial; display: initial; dominant-baseline: initial=
-; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: in=
-itial; filter: initial; flex: initial; flex-flow: initial; float: initial; =
-flood-color: initial; flood-opacity: initial; grid: initial; grid-area: ini=
-tial; height: initial; hyphenate-character: initial; hyphenate-limit-chars:=
- initial; hyphens: initial; image-orientation: initial; image-rendering: in=
-itial; initial-letter: initial; inline-size: initial; inset-block: initial;=
- inset-inline: initial; isolation: initial; letter-spacing: initial; lighti=
-ng-color: initial; line-break: initial; list-style: initial; margin-block: =
-initial; margin: initial; margin-inline: initial; marker: initial; mask: in=
-itial; mask-type: initial; math-depth: initial; math-shift: initial; math-s=
-tyle: initial; max-block-size: initial; max-height: initial; max-inline-siz=
-e: initial; max-width: initial; min-block-size: initial; min-height: initia=
-l; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; o=
-bject-fit: initial; object-position: initial; object-view-box: initial; off=
-set: initial; opacity: initial; order: initial; orphans: initial; outline: =
-initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-m=
-argin: initial; overflow-wrap: initial; overflow: initial; overscroll-behav=
-ior-block: initial; overscroll-behavior-inline: initial; overscroll-behavio=
-r: initial; padding-block: initial; padding: initial; padding-inline: initi=
-al; page: initial; page-orientation: initial; paint-order: initial; perspec=
-tive: initial; perspective-origin: initial; pointer-events: initial; positi=
-on: absolute; quotes: initial; r: initial; resize: initial; rotate: initial=
-; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-=
-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; sc=
-roll-margin-inline: initial; scroll-padding-block: initial; scroll-padding:=
- initial; scroll-padding-inline: initial; scroll-snap-align: initial; scrol=
-l-snap-stop: initial; scroll-snap-type: initial; scrollbar-gutter: initial;=
- shape-image-threshold: initial; shape-margin: initial; shape-outside: init=
-ial; shape-rendering: initial; size: initial; speak: initial; stop-color: i=
-nitial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; =
-stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initi=
-al; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: init=
-ial; tab-size: initial; table-layout: initial; text-align: initial; text-al=
-ign-last: initial; text-anchor: initial; text-combine-upright: initial; tex=
-t-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: in=
-itial; text-emphasis-position: initial; text-indent: initial; text-overflow=
-: initial; text-shadow: initial; text-size-adjust: initial; text-transform:=
- initial; text-underline-offset: initial; text-underline-position: initial;=
- touch-action: initial; transform: initial; transform-box: initial; transfo=
-rm-origin: initial; transform-style: initial; transition: initial; translat=
-e: initial; user-select: initial; vector-effect: initial; vertical-align: i=
-nitial; view-transition-name: initial; visibility: initial; border-spacing:=
- initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial=
-; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-or=
-dinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initia=
-l; -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-line-b=
-reak: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial=
-; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-print-col=
-or-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: i=
-nitial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial=
-; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: ini=
-tial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit=
--user-drag: initial; -webkit-user-modify: initial; white-space: initial; wi=
-dows: initial; width: initial; will-change: initial; word-break: initial; w=
-ord-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><link r=
-el=3D"stylesheet" href=3D"chrome-extension://gpaiobkfhnonedkhhfjpmhdalgeoeb=
-fa/fonts/fabric-icons.css"></div><div style=3D"color: initial; font: initia=
-l; font-palette: initial; font-synthesis: initial; forced-color-adjust: ini=
-tial; text-orientation: initial; text-rendering: initial; -webkit-font-smoo=
-thing: initial; -webkit-locale: initial; -webkit-text-orientation: initial;=
- -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accen=
-t-color: initial; place-content: initial; place-items: initial; place-self:=
- initial; alignment-baseline: initial; animation: initial; app-region: init=
-ial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; =
-backface-visibility: initial; background: initial; background-blend-mode: i=
-nitial; baseline-shift: initial; baseline-source: initial; block-size: init=
-ial; border-block: initial; border: initial; border-radius: initial; border=
--collapse: initial; border-end-end-radius: initial; border-end-start-radius=
-: initial; border-inline: initial; border-start-end-radius: initial; border=
--start-start-radius: initial; inset: initial; box-shadow: initial; box-sizi=
-ng: initial; break-after: initial; break-before: initial; break-inside: ini=
-tial; buffered-rendering: initial; caption-side: initial; caret-color: init=
-ial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial;=
- color-interpolation: initial; color-interpolation-filters: initial; color-=
-rendering: initial; color-scheme: initial; columns: initial; column-fill: i=
-nitial; gap: initial; column-rule: initial; column-span: initial; contain: =
-initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: ini=
-tial; contain-intrinsic-inline-size: initial; container: initial; content: =
-initial; content-visibility: initial; counter-increment: initial; counter-r=
-eset: initial; counter-set: initial; cursor: initial; cx: initial; cy: init=
-ial; d: initial; display: initial; dominant-baseline: initial; empty-cells:=
- initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter:=
- initial; flex: initial; flex-flow: initial; float: initial; flood-color: i=
-nitial; flood-opacity: initial; grid: initial; grid-area: initial; height: =
-initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyph=
-ens: initial; image-orientation: initial; image-rendering: initial; initial=
--letter: initial; inline-size: initial; inset-block: initial; inset-inline:=
- initial; isolation: initial; letter-spacing: initial; lighting-color: init=
-ial; line-break: initial; list-style: initial; margin-block: initial; margi=
-n: initial; margin-inline: initial; marker: initial; mask: initial; mask-ty=
-pe: initial; math-depth: initial; math-shift: initial; math-style: initial;=
- max-block-size: initial; max-height: initial; max-inline-size: initial; ma=
-x-width: initial; min-block-size: initial; min-height: initial; min-inline-=
-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: ini=
-tial; object-position: initial; object-view-box: initial; offset: initial; =
-opacity: initial; order: initial; orphans: initial; outline: initial; outli=
-ne-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial=
-; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: ini=
-tial; overscroll-behavior-inline: initial; overscroll-behavior: initial; pa=
-dding-block: initial; padding: initial; padding-inline: initial; page: init=
-ial; page-orientation: initial; paint-order: initial; perspective: initial;=
- perspective-origin: initial; pointer-events: initial; position: absolute; =
-quotes: initial; r: initial; resize: initial; rotate: initial; ruby-positio=
-n: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: init=
-ial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-in=
-line: initial; scroll-padding-block: initial; scroll-padding: initial; scro=
-ll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: i=
-nitial; scroll-snap-type: initial; scrollbar-gutter: initial; shape-image-t=
-hreshold: initial; shape-margin: initial; shape-outside: initial; shape-ren=
-dering: initial; size: initial; speak: initial; stop-color: initial; stop-o=
-pacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoff=
-set: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-mit=
-erlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size:=
- initial; table-layout: initial; text-align: initial; text-align-last: init=
-ial; text-anchor: initial; text-combine-upright: initial; text-decoration: =
-initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-em=
-phasis-position: initial; text-indent: initial; text-overflow: initial; tex=
-t-shadow: initial; text-size-adjust: initial; text-transform: initial; text=
--underline-offset: initial; text-underline-position: initial; touch-action:=
- initial; transform: initial; transform-box: initial; transform-origin: ini=
-tial; transform-style: initial; transition: initial; translate: initial; us=
-er-select: initial; vector-effect: initial; vertical-align: initial; view-t=
-ransition-name: initial; visibility: initial; border-spacing: initial; -web=
-kit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-=
-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: i=
-nitial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box=
--reflect: initial; -webkit-highlight: initial; -webkit-line-break: initial;=
- -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask=
-: initial; -webkit-mask-composite: initial; -webkit-print-color-adjust: ini=
-tial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webki=
-t-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text=
--decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-=
-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: in=
-itial; -webkit-user-modify: initial; white-space: initial; widows: initial;=
- width: initial; will-change: initial; word-break: initial; word-spacing: i=
-nitial; x: initial; y: initial; z-index: 2147483647;"><link rel=3D"styleshe=
-et" href=3D"chrome-extension://gpaiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabri=
-c-icons.css"><div style=3D"all: initial;"><template shadowmode=3D"open"></t=
-emplate></div></div></div></editor-card></html>
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
+owmode=3D"open"></template></div></div></div></editor-card></html>
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-b2623f2b-b57d-4728-a6cc-4ded60988654@mhtml.blink
+Content-Location: cid:css-874c5804-00e2-408d-907a-9528f57982be@mhtml.blink
 
 @charset "utf-8";
 
@@ -756,1913 +589,6 @@ Content-Location: cid:css-b2623f2b-b57d-4728-a6cc-4ded60988654@mhtml.blink
   0% { transform: rotateZ(0deg); }
   100% { transform: rotateZ(-90deg); }
 }
-
-@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
-arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
--light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
-iles/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-light.woff") format=
-("woff"); font-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
-arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
--semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
-om/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-semilight.woff"=
-) format("woff"); font-weight: 300; font-style: normal; font-display: swap;=
- }
-
-@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
-arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
--regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
-/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-regular.woff") fo=
-rmat("woff"); font-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
-arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
--semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
-m/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-semibold.woff") =
-format("woff"); font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
-arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
--bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
-les/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-bold.woff") format("=
-woff"); font-weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-lig=
-ht.woff2") format("woff2"), url("https://static2.sharepointonline.com/files=
-/fabric/assets/fonts/segoeui-arabic/segoeui-light.woff") format("woff"); fo=
-nt-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-sem=
-ilight.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
-iles/fabric/assets/fonts/segoeui-arabic/segoeui-semilight.woff") format("wo=
-ff"); font-weight: 300; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-reg=
-ular.woff2") format("woff2"), url("https://static2.sharepointonline.com/fil=
-es/fabric/assets/fonts/segoeui-arabic/segoeui-regular.woff") format("woff")=
-; font-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-sem=
-ibold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
-les/fabric/assets/fonts/segoeui-arabic/segoeui-semibold.woff") format("woff=
-"); font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Arabic)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-arabic/segoeui-bol=
-d.woff2") format("woff2"), url("https://static2.sharepointonline.com/files/=
-fabric/assets/fonts/segoeui-arabic/segoeui-bold.woff") format("woff"); font=
--weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
--light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
-iles/fabric/assets/fonts/segoeui-cyrillic/segoeui-light.woff") format("woff=
-"); font-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
--semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
-om/files/fabric/assets/fonts/segoeui-cyrillic/segoeui-semilight.woff") form=
-at("woff"); font-weight: 300; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
--regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
-/files/fabric/assets/fonts/segoeui-cyrillic/segoeui-regular.woff") format("=
-woff"); font-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
--semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
-m/files/fabric/assets/fonts/segoeui-cyrillic/segoeui-semibold.woff") format=
-("woff"); font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Cyrillic)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-cyrillic/segoeui=
--bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
-les/fabric/assets/fonts/segoeui-cyrillic/segoeui-bold.woff") format("woff")=
-; font-weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
-/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
-n/segoeui-light.woff2") format("woff2"), url("https://static2.sharepointonl=
-ine.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-light.woff")=
- format("woff"); font-weight: 100; font-style: normal; font-display: swap; =
-}
-
-@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
-/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
-n/segoeui-semilight.woff2") format("woff2"), url("https://static2.sharepoin=
-tonline.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-semiligh=
-t.woff") format("woff"); font-weight: 300; font-style: normal; font-display=
-: swap; }
-
-@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
-/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
-n/segoeui-regular.woff2") format("woff2"), url("https://static2.sharepointo=
-nline.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-regular.wo=
-ff") format("woff"); font-weight: 400; font-style: normal; font-display: sw=
-ap; }
-
-@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
-/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
-n/segoeui-semibold.woff2") format("woff2"), url("https://static2.sharepoint=
-online.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-semibold.=
-woff") format("woff"); font-weight: 600; font-style: normal; font-display: =
-swap; }
-
-@font-face { font-family: "Segoe UI Web (East European)"; src: url("https:/=
-/static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-easteuropea=
-n/segoeui-bold.woff2") format("woff2"), url("https://static2.sharepointonli=
-ne.com/files/fabric/assets/fonts/segoeui-easteuropean/segoeui-bold.woff") f=
-ormat("woff"); font-weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
-.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-light=
-.woff2") format("woff2"), url("https://static2.sharepointonline.com/files/f=
-abric/assets/fonts/segoeui-greek/segoeui-light.woff") format("woff"); font-=
-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
-.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-semil=
-ight.woff2") format("woff2"), url("https://static2.sharepointonline.com/fil=
-es/fabric/assets/fonts/segoeui-greek/segoeui-semilight.woff") format("woff"=
-); font-weight: 300; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
-.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-regul=
-ar.woff2") format("woff2"), url("https://static2.sharepointonline.com/files=
-/fabric/assets/fonts/segoeui-greek/segoeui-regular.woff") format("woff"); f=
-ont-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
-.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-semib=
-old.woff2") format("woff2"), url("https://static2.sharepointonline.com/file=
-s/fabric/assets/fonts/segoeui-greek/segoeui-semibold.woff") format("woff");=
- font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Greek)"; src: url("https://static2=
-.sharepointonline.com/files/fabric/assets/fonts/segoeui-greek/segoeui-bold.=
-woff2") format("woff2"), url("https://static2.sharepointonline.com/files/fa=
-bric/assets/fonts/segoeui-greek/segoeui-bold.woff") format("woff"); font-we=
-ight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-lig=
-ht.woff2") format("woff2"), url("https://static2.sharepointonline.com/files=
-/fabric/assets/fonts/segoeui-hebrew/segoeui-light.woff") format("woff"); fo=
-nt-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-sem=
-ilight.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
-iles/fabric/assets/fonts/segoeui-hebrew/segoeui-semilight.woff") format("wo=
-ff"); font-weight: 300; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-reg=
-ular.woff2") format("woff2"), url("https://static2.sharepointonline.com/fil=
-es/fabric/assets/fonts/segoeui-hebrew/segoeui-regular.woff") format("woff")=
-; font-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-sem=
-ibold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
-les/fabric/assets/fonts/segoeui-hebrew/segoeui-semibold.woff") format("woff=
-"); font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Hebrew)"; src: url("https://static=
-2.sharepointonline.com/files/fabric/assets/fonts/segoeui-hebrew/segoeui-bol=
-d.woff2") format("woff2"), url("https://static2.sharepointonline.com/files/=
-fabric/assets/fonts/segoeui-hebrew/segoeui-bold.woff") format("woff"); font=
--weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
-atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
-oeui-light.woff2") format("woff2"), url("https://static2.sharepointonline.c=
-om/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-light.woff") format=
-("woff"); font-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
-atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
-oeui-semilight.woff2") format("woff2"), url("https://static2.sharepointonli=
-ne.com/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-semilight.woff"=
-) format("woff"); font-weight: 300; font-style: normal; font-display: swap;=
- }
-
-@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
-atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
-oeui-regular.woff2") format("woff2"), url("https://static2.sharepointonline=
-.com/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-regular.woff") fo=
-rmat("woff"); font-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
-atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
-oeui-semibold.woff2") format("woff2"), url("https://static2.sharepointonlin=
-e.com/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-semibold.woff") =
-format("woff"); font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Vietnamese)"; src: url("https://st=
-atic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-vietnamese/seg=
-oeui-bold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
-m/files/fabric/assets/fonts/segoeui-vietnamese/segoeui-bold.woff") format("=
-woff"); font-weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
- UI Light"), url("https://static2.sharepointonline.com/files/fabric/assets/=
-fonts/segoeui-westeuropean/segoeui-light.woff2") format("woff2"), url("http=
-s://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuro=
-pean/segoeui-light.woff") format("woff"); font-weight: 100; font-style: nor=
-mal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
- UI SemiLight"), url("https://static2.sharepointonline.com/files/fabric/ass=
-ets/fonts/segoeui-westeuropean/segoeui-semilight.woff2") format("woff2"), u=
-rl("https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-=
-westeuropean/segoeui-semilight.woff") format("woff"); font-weight: 300; fon=
-t-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
- UI"), url("https://static2.sharepointonline.com/files/fabric/assets/fonts/=
-segoeui-westeuropean/segoeui-regular.woff2") format("woff2"), url("https://=
-static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean=
-/segoeui-regular.woff") format("woff"); font-weight: 400; font-style: norma=
-l; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
- UI SemiBold"), url("https://static2.sharepointonline.com/files/fabric/asse=
-ts/fonts/segoeui-westeuropean/segoeui-semibold.woff2") format("woff2"), url=
-("https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-we=
-steuropean/segoeui-semibold.woff") format("woff"); font-weight: 600; font-s=
-tyle: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (West European)"; src: local("Segoe=
- UI Bold"), url("https://static2.sharepointonline.com/files/fabric/assets/f=
-onts/segoeui-westeuropean/segoeui-bold.woff2") format("woff2"), url("https:=
-//static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeurope=
-an/segoeui-bold.woff") format("woff"); font-weight: 700; font-style: normal=
-; font-display: swap; }
-
-@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
-sets/fonts/selawik/selawik-light.woff2") format("woff2"), url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-light.wo=
-ff") format("woff"); font-weight: 100; font-style: normal; font-display: sw=
-ap; }
-
-@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
-sets/fonts/selawik/selawik-semilight.woff2") format("woff2"), url("https://=
-static2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-semi=
-light.woff") format("woff"); font-weight: 300; font-style: normal; font-dis=
-play: swap; }
-
-@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
-sets/fonts/selawik/selawik-regular.woff2") format("woff2"), url("https://st=
-atic2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-regula=
-r.woff") format("woff"); font-weight: 400; font-style: normal; font-display=
-: swap; }
-
-@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
-sets/fonts/selawik/selawik-semibold.woff2") format("woff2"), url("https://s=
-tatic2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-semib=
-old.woff") format("woff"); font-weight: 600; font-style: normal; font-displ=
-ay: swap; }
-
-@font-face { src: url("https://static2.sharepointonline.com/files/fabric/as=
-sets/fonts/selawik/selawik-bold.woff2") format("woff2"), url("https://stati=
-c2.sharepointonline.com/files/fabric/assets/fonts/selawik/selawik-bold.woff=
-") format("woff"); font-weight: 700; font-style: normal; font-display: swap=
-; }
-
-@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
--light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
-iles/fabric/assets/fonts/segoeui-armenian/segoeui-light.woff") format("woff=
-"); font-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
--semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
-om/files/fabric/assets/fonts/segoeui-armenian/segoeui-semilight.woff") form=
-at("woff"); font-weight: 300; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
--regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
-/files/fabric/assets/fonts/segoeui-armenian/segoeui-regular.woff") format("=
-woff"); font-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
--semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
-m/files/fabric/assets/fonts/segoeui-armenian/segoeui-semibold.woff") format=
-("woff"); font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Armenian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-armenian/segoeui=
--bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
-les/fabric/assets/fonts/segoeui-armenian/segoeui-bold.woff") format("woff")=
-; font-weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
--light.woff2") format("woff2"), url("https://static2.sharepointonline.com/f=
-iles/fabric/assets/fonts/segoeui-georgian/segoeui-light.woff") format("woff=
-"); font-weight: 100; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
--semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
-om/files/fabric/assets/fonts/segoeui-georgian/segoeui-semilight.woff") form=
-at("woff"); font-weight: 300; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
--regular.woff2") format("woff2"), url("https://static2.sharepointonline.com=
-/files/fabric/assets/fonts/segoeui-georgian/segoeui-regular.woff") format("=
-woff"); font-weight: 400; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
--semibold.woff2") format("woff2"), url("https://static2.sharepointonline.co=
-m/files/fabric/assets/fonts/segoeui-georgian/segoeui-semibold.woff") format=
-("woff"); font-weight: 600; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Segoe UI Web (Georgian)"; src: url("https://stat=
-ic2.sharepointonline.com/files/fabric/assets/fonts/segoeui-georgian/segoeui=
--bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
-les/fabric/assets/fonts/segoeui-georgian/segoeui-bold.woff") format("woff")=
-; font-weight: 700; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
-arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
--semilight.woff2") format("woff2"), url("https://static2.sharepointonline.c=
-om/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-semilight.woff"=
-) format("woff"); font-weight: 100; font-style: normal; font-display: swap;=
- }
-
-@font-face { font-family: "Leelawadee UI Web"; src: url("https://static2.sh=
-arepointonline.com/files/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui=
--bold.woff2") format("woff2"), url("https://static2.sharepointonline.com/fi=
-les/fabric/assets/fonts/leelawadeeui-thai/leelawadeeui-bold.woff") format("=
-woff"); font-weight: 600; font-style: normal; font-display: swap; }
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
-Content-Type: text/css
-Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-c95a7989-2f76-4637-8f4f-b51c333f805e@mhtml.blink
-
-@charset "utf-8";
-
-.editorbx-css-0 { overflow: hidden !important; }
-
-.editorbx-css-1 { animation-name: editorbx-css-0, editorbx-css-10; animatio=
-n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
-1); animation-fill-mode: both; }
-
-.editorbx-css-2 { animation-name: editorbx-css-0, editorbx-css-12; animatio=
-n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
-1); animation-fill-mode: both; }
-
-.editorbx-css-3 { animation-name: editorbx-css-0, editorbx-css-6; animation=
--duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, 1=
-); animation-fill-mode: both; }
-
-.editorbx-css-4 { animation-name: editorbx-css-0, editorbx-css-2; animation=
--duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, 1=
-); animation-fill-mode: both; }
-
-.editorbx-root-5 { display: inline-block; }
-
-.editorbx-placeholder-6 { width: 1em; }
-
-.editorbx-image-7 { overflow: hidden; }
-
-.editorbx-body-8 { color: rgb(50, 49, 48); background: rgb(255, 255, 255); =
-font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple=
--system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; font-wei=
-ght: 400; font-size: 14px; -webkit-font-smoothing: antialiased; }
-
-.editorbx-container-9 { position: relative; }
-
-.editorbx-root-10 { font-family: "Segoe UI Web (West European)", "Segoe UI"=
-, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; =
--webkit-font-smoothing: antialiased; font-size: 14px; font-weight: 400; pos=
-ition: absolute; display: flex; z-index: 1000000; box-sizing: border-box; b=
-order-radius: 2px; box-shadow: rgba(0, 0, 0, 0.133) 0px 6.4px 14.4px 0px, r=
-gba(0, 0, 0, 0.11) 0px 1.2px 3.6px 0px; outline: transparent; max-width: 45=
-0px; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-10 { border-width: 1px; border-style: solid; border-color:=
- windowtext; }
-}
-
-.editorbx-beak-11 { position: absolute; background-color: rgb(255, 255, 255=
-); box-shadow: inherit; border: inherit; box-sizing: border-box; transform:=
- rotate(45deg); height: 16px; width: 16px; }
-
-.editorbx-beakCurtain-12 { position: absolute; inset: 0px; background-color=
-: rgb(255, 255, 255); border-radius: 2px; }
-
-.editorbx-calloutMain-13 { background-color: rgb(255, 255, 255); overflow: =
-hidden auto; position: relative; width: 100%; border-radius: 2px; min-width=
-: 288px; padding-top: 14px; font-family: "Segoe UI Web (West European)", "S=
-egoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans=
--serif; }
-
-.editorbx-root-14 { display: inline-block; color: rgb(90, 78, 188); font-fa=
-mily: FabricMDL2Icons; font-size: 7px; line-height: 18px; width: auto; heig=
-ht: auto; }
-
-.editorbx-root-15 { display: inline-block; font-family: FabricMDL2Icons; fo=
-nt-weight: 700; font-size: 10px; width: auto; height: auto; padding-right: =
-5px; }
-
-.editorbx-root-16 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 600; color: rgb(50, 49, 48); box-sizing: border-box; box-shadow: none; =
-margin: 0px; display: block; padding: 5px 0px; overflow-wrap: break-word; }
-
-.editorbx-root-17 { font-family: "Segoe UI Web (West European)", "Segoe UI"=
-, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; =
--webkit-font-smoothing: antialiased; font-size: 12px; font-weight: 400; col=
-or: rgb(59, 58, 57); box-sizing: border-box; box-shadow: none; margin: 0px =
-0px 8px; display: block; padding: 0px 12px; overflow-wrap: break-word; user=
--select: none; }
-
-@media screen and (forced-colors: active) {
-  .editorbx-root-17 { color: windowtext; }
-}
-
-.editorbx-root-18 { outline: transparent; position: relative; font-family: =
-"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
-nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
-ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: none=
-; display: inline-block; text-decoration: none; text-align: center; cursor:=
- pointer; padding: 7px 6px 9px; border-radius: 2px; max-width: 400px; min-h=
-eight: 36px; height: auto; background-color: transparent; color: rgb(50, 49=
-, 48); flex-grow: 1; user-select: none; width: 100% !important; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-18:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-18:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-18:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-18.ms-editor-focus { background-color: transparent; border: =
-1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-18:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); border: none; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-18:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-18:hover .ms-Button-description { color: rgb(32, 31, 30); }
-
-.editorbx-root-18:focus { background-color: transparent; border: 1px solid =
-rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-18:active { background-color: rgb(237, 235, 233); color: rgb=
-(32, 31, 30); }
-
-.editorbx-root-18:active .ms-Button-description { color: inherit; }
-
-.editorbx-flexContainer-19 { display: flex; height: 100%; flex-flow: row no=
-wrap; justify-content: center; align-items: flex-start; min-width: 100%; }
-
-.editorbx-textContainer-20 { flex-grow: 1; display: block; text-align: left=
-; }
-
-.editorbx-icon-21 { font-size: 2em; margin: 0px 8px 0px 0px; height: 1em; l=
-ine-height: 1em; text-align: center; flex-shrink: 0; flex-basis: 1em; }
-
-.editorbx-label-22 { margin: 0px 0px 5px; line-height: 100%; display: block=
-; font-weight: 600; }
-
-.editorbx-menuIcon-23 { font-size: 12px; margin: 0px 4px; height: 16px; lin=
-e-height: 16px; text-align: center; flex-shrink: 0; }
-
-.editorbx-description-24 { display: block; font-family: "Segoe UI", "Segoe =
-UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Rob=
-oto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; fon=
-t-size: 12px; font-weight: 400; line-height: 100%; color: rgb(59, 58, 57); =
-}
-
-.editorbx-screenReaderText-25 { position: absolute; width: 1px; height: 1px=
-; margin: -1px; padding: 0px; border: 0px; overflow: hidden; white-space: n=
-owrap; }
-
-.editorbx-root-26 { outline: transparent; position: relative; font-family: =
-"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
-nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
-ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: none=
- rgb(243, 242, 241); display: inline-block; text-decoration: none; text-ali=
-gn: center; cursor: default; padding: 7px 6px 9px; border-radius: 2px; max-=
-width: 400px; min-height: 36px; height: auto; background-color: transparent=
-; color: rgb(161, 159, 157); flex-grow: 1; user-select: none; width: 100% !=
-important; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-26:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-26:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-26:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-26.ms-editor-focus { background-color: transparent; border: =
-1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-26:hover { outline: 0px; }
-
-.editorbx-root-26:focus { outline: 0px; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-26 { color: graytext; border-color: graytext; background-c=
-olor: window; }
-}
-
-.editorbx-icon-27 { font-size: 2em; margin: 0px 8px 0px 0px; height: 1em; l=
-ine-height: 1em; text-align: center; flex-shrink: 0; flex-basis: 1em; color=
-: rgb(161, 159, 157); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-icon-27 { color: graytext; }
-}
-
-.editorbx-menuIcon-28 { font-size: 12px; margin: 0px 4px; height: 16px; lin=
-e-height: 16px; text-align: center; flex-shrink: 0; color: rgb(161, 159, 15=
-7); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-menuIcon-28 { color: graytext; }
-}
-
-.editorbx-description-29 { display: block; font-family: "Segoe UI", "Segoe =
-UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Rob=
-oto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; fon=
-t-size: 12px; font-weight: 400; line-height: 100%; color: inherit; }
-
-.editorbx-root-30 { outline: transparent; position: relative; font-family: =
-"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
-nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
-ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: 1px =
-solid rgb(96, 94, 92); display: inline-block; text-decoration: none; text-a=
-lign: center; cursor: default; padding: 7px 6px 9px; border-radius: 2px; ma=
-x-width: 400px; min-height: 36px; height: auto; background-color: transpare=
-nt; color: rgb(161, 159, 157); flex-grow: 1; user-select: none; width: 100%=
- !important; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-30:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-30:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-30:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-30.ms-editor-focus { background-color: transparent; border: =
-1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-30:hover { outline: 0px; }
-
-.editorbx-root-30:focus { outline: 0px; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-30 { color: graytext; border-color: graytext; background-c=
-olor: window; }
-}
-
-.editorbx-textContainer-31 { flex-grow: 1; display: block; text-align: righ=
-t; }
-
-.editorbx-root-32 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
-border: none; display: inline-block; text-decoration: none; text-align: lef=
-t; cursor: pointer; padding: 0px; border-radius: 2px; min-width: auto; heig=
-ht: 24px; background-color: rgb(255, 255, 255); color: rgb(59, 58, 57); poi=
-nter-events: all; margin: 0px 8px 0px 0px; max-height: 24px; min-height: 24=
-px; flex-grow: 0; white-space: nowrap; overflow: visible; user-select: none=
-; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-32:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-32:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-32:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-32.ms-editor-focus { background-color: transparent; outline:=
- rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-32:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-32:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-32:focus { outline: rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-32:active { background-color: rgb(219, 219, 219); color: rgb=
-(32, 31, 30); }
-
-.editorbx-flexContainer-33 { display: flex; height: 100%; flex-wrap: nowrap=
-; justify-content: center; align-items: center; pointer-events: all; }
-
-.editorbx-textContainer-34 { flex-grow: 1; display: block; }
-
-.editorbx-icon-35 { font-size: 16px; margin: 0px 4px; height: 16px; line-he=
-ight: 16px; text-align: center; flex-shrink: 0; }
-
-.editorbx-label-36 { margin: 0px 4px; line-height: 100%; display: block; fo=
-nt-weight: 400; }
-
-.editorbx-description-37 { display: block; }
-
-.editorbx-root-38 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
-border: none; display: inline-block; text-decoration: none; text-align: cen=
-ter; cursor: pointer; padding: 3px 0px 0px; border-radius: 2px; min-width: =
-auto; height: 24px; background-color: rgb(255, 255, 255); color: rgb(50, 49=
-, 48); margin: 0px 8px 0px 0px; max-height: 24px; min-height: 24px; flex-gr=
-ow: 0; white-space: nowrap; user-select: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-38:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-38:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-38:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-38.ms-editor-focus { background-color: transparent; outline:=
- rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-38:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-38:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-38:focus { outline: rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-38:active { background-color: rgb(219, 219, 219); color: rgb=
-(32, 31, 30); }
-
-.editorbx-flexContainer-39 { display: flex; height: 100%; flex-wrap: nowrap=
-; justify-content: center; align-items: center; }
-
-.editorbx-label-40 { margin: 0px 4px; line-height: 100%; display: block; fo=
-nt-weight: 600; }
-
-.editorbx-root-41 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
-border: none; display: inline-block; text-decoration: none; text-align: cen=
-ter; cursor: pointer; padding: 0px; border-radius: 2px; min-width: 25px; he=
-ight: 24px; background-color: rgb(255, 255, 255); color: rgb(50, 49, 48); w=
-idth: 25px; margin: 0px; max-height: 24px; min-height: 24px; flex-grow: 0; =
-user-select: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-41:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-41:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-41:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-41.ms-editor-focus { background-color: transparent; outline:=
- rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-41:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-41:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-41:focus { outline: rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-41:active { background-color: rgb(219, 219, 219); color: rgb=
-(32, 31, 30); }
-
-.editorbx-root-42 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 400; background-color: rgb(255, 255, 255); min-width: 180px; }
-
-.editorbx-container-43:focus { outline: 0px; }
-
-.editorbx-list-44 { list-style-type: none; margin: 0px; padding: 0px; }
-
-.editorbx-header-45 { font-family: "Segoe UI", "Segoe UI Web (West European=
-)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue"=
-, sans-serif; -webkit-font-smoothing: antialiased; font-size: 12px; font-we=
-ight: 600; color: rgb(0, 120, 212); background: none transparent; border: n=
-one; height: 36px; line-height: 36px; cursor: default; padding: 0px 6px; te=
-xt-align: left; user-select: none; }
-
-.editorbx-title-46 { font-size: 16px; padding: 5px 14px; background-color: =
-rgb(237, 235, 233); }
-
-.editorbx-item-47 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 400; color: rgb(50, 49, 48); position: relative; box-sizing: border-box=
-; }
-
-.editorbx-divider-48 { display: block; height: 1px; background-color: rgb(2=
-37, 235, 233); position: relative; }
-
-.editorbx-root-49 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159, 157=
-); background-color: transparent; border: none; width: 100%; height: 36px; =
-line-height: 36px; display: block; cursor: default; padding: 0px 8px 0px 4p=
-x; text-align: left; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-49:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-49 { color: graytext; opacity: 1; }
-}
-
-.editorbx-splitPrimary-50 { outline: transparent; position: relative; font-=
-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-syst=
-em, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-=
-smoothing: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, =
-159, 157); background-color: transparent; border: none; width: calc(100% - =
-28px); height: 36px; line-height: 36px; display: block; cursor: default; pa=
-dding: 0px 8px 0px 4px; text-align: left; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-50:focus::after { content=
-: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255);=
- outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-splitPrimary-50 { color: graytext; opacity: 1; }
-}
-
-.editorbx-splitMenu-51 { outline: transparent; position: relative; font-fam=
-ily: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system,=
- BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smo=
-othing: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159=
-, 157); background-color: transparent; border: none; width: 100%; height: 3=
-6px; line-height: 36px; display: block; cursor: default; padding: 0px 8px; =
-text-align: left; flex-basis: 0px; min-width: 28px; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-51:focus::after { content: "=
-"; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); ou=
-tline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-splitMenu-51 { color: graytext; opacity: 1; }
-}
-
-.editorbx-anchorLink-52 { padding: 0px 8px 0px 4px; text-rendering: auto; c=
-olor: inherit; letter-spacing: normal; word-spacing: normal; text-transform=
-: none; text-indent: 0px; text-shadow: none; text-decoration: none; box-siz=
-ing: border-box; }
-
-.editorbx-linkContent-53 { white-space: nowrap; height: inherit; display: f=
-lex; align-items: center; max-width: 100%; }
-
-.editorbx-linkContentMenu-54 { white-space: nowrap; height: inherit; displa=
-y: flex; align-items: center; max-width: 100%; justify-content: center; }
-
-.editorbx-icon-55 { display: inline-block; min-height: 1px; max-height: 36p=
-x; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: middle; f=
-lex-shrink: 0; color: rgb(161, 159, 157); }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-icon-55 { font-size: 20px; width: 20px; }
-}
-
-.editorbx-iconColor-56 { color: rgb(0, 120, 212); }
-
-.editorbx-checkmarkIcon-57 { display: inline-block; min-height: 1px; max-he=
-ight: 36px; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: =
-middle; flex-shrink: 0; }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-checkmarkIcon-57 { font-size: 20px; width: 20px; }
-}
-
-.editorbx-subMenuIcon-58 { height: 36px; line-height: 36px; color: rgb(161,=
- 159, 157); text-align: center; display: inline-block; vertical-align: midd=
-le; flex-shrink: 0; font-size: 12px; }
-
-.editorbx-subMenuIcon-58:hover { color: rgb(50, 49, 48); }
-
-.editorbx-subMenuIcon-58:active { color: rgb(50, 49, 48); }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-subMenuIcon-58 { font-size: 16px; }
-}
-
-.editorbx-label-59 { margin: 0px 4px; vertical-align: middle; display: inli=
-ne-block; flex-grow: 1; text-overflow: ellipsis; white-space: nowrap; }
-
-.editorbx-secondaryText-60 { color: rgb(96, 94, 92); padding-left: 20px; te=
-xt-align: right; }
-
-.editorbx-splitContainer-61 { outline: transparent; position: relative; dis=
-play: flex; height: 36px; flex-wrap: nowrap; justify-content: center; align=
--items: flex-start; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-61:focus::after { conte=
-nt: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255=
-); outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-screenReaderText-62 { position: absolute; width: 1px; height: 1px=
-; margin: -1px; padding: 0px; border: 0px; overflow: hidden; white-space: n=
-owrap; visibility: hidden; }
-
-.editorbx-root-63 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159, 157=
-); background-color: transparent; border: none; width: 100%; height: 36px; =
-line-height: 36px; display: block; cursor: default; padding: 0px 8px 0px 4p=
-x; text-align: left; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-63:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-63 { color: graytext; opacity: 1; }
-}
-
-.editorbx-root-63:hover { background-color: rgb(243, 242, 241); }
-
-.editorbx-root-63:active { background-color: rgb(225, 223, 221); }
-
-.editorbx-root-64 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 400; position: absolute; display: flex; z-index: 1000000; box-sizing: b=
-order-box; border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.133) 0px 6.4px 1=
-4.4px 0px, rgba(0, 0, 0, 0.11) 0px 1.2px 3.6px 0px; outline: transparent; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-64 { border-width: 1px; border-style: solid; border-color:=
- windowtext; }
-}
-
-.editorbx-calloutMain-65 { background-color: rgb(255, 255, 255); overflow: =
-hidden; position: relative; width: 100%; border-radius: 2px; }
-
-.editorbx-css-66:focus { outline: none; }
-
-.editorbx-root-67 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, 48); =
-background-color: transparent; border: none; width: 100%; height: 36px; lin=
-e-height: 36px; display: block; cursor: pointer; padding: 0px 8px 0px 4px; =
-text-align: left; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-67:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-root-67:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-.editorbx-root-67:hover .ms-ContextualMenu-icon { color: rgb(16, 110, 190);=
- }
-
-.editorbx-root-67:hover .ms-ContextualMenu-submenuIcon { color: rgb(50, 49,=
- 48); }
-
-.editorbx-root-67:active { background-color: rgb(237, 235, 233); }
-
-.editorbx-root-67:active .ms-ContextualMenu-icon { color: rgb(0, 90, 158); =
-}
-
-.editorbx-root-67:active .ms-ContextualMenu-submenuIcon { color: rgb(50, 49=
-, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-67:focus { background-color: rgb(=
-255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-67:focus:hover { background-color=
-: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-67:hover { background: inherit; }
-
-.editorbx-splitPrimary-68 { outline: transparent; position: relative; font-=
-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-syst=
-em, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-=
-smoothing: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 4=
-9, 48); background-color: transparent; border: none; width: calc(100% - 28p=
-x); height: 36px; line-height: 36px; display: block; cursor: pointer; paddi=
-ng: 0px 8px 0px 4px; text-align: left; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-68:focus::after { content=
-: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255);=
- outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-splitPrimary-68:hover { background-color: rgb(243, 242, 241); col=
-or: rgb(32, 31, 30); }
-
-.editorbx-splitPrimary-68:hover .ms-ContextualMenu-icon { color: rgb(16, 11=
-0, 190); }
-
-.editorbx-splitPrimary-68:hover .ms-ContextualMenu-submenuIcon { color: rgb=
-(50, 49, 48); }
-
-.editorbx-splitPrimary-68:hover ~ .ms-ContextualMenu-splitMenu { background=
--color: rgb(243, 242, 241); color: rgb(32, 31, 30); }
-
-.editorbx-splitPrimary-68:hover ~ .ms-ContextualMenu-splitMenu .ms-Contextu=
-alMenu-icon { color: rgb(16, 110, 190); }
-
-.editorbx-splitPrimary-68:hover ~ .ms-ContextualMenu-splitMenu .ms-Contextu=
-alMenu-submenuIcon { color: rgb(50, 49, 48); }
-
-.editorbx-splitPrimary-68:active { background-color: rgb(237, 235, 233); }
-
-.editorbx-splitPrimary-68:active .ms-ContextualMenu-icon { color: rgb(0, 90=
-, 158); }
-
-.editorbx-splitPrimary-68:active .ms-ContextualMenu-submenuIcon { color: rg=
-b(50, 49, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-68:focus { background-col=
-or: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-68:focus:hover { backgrou=
-nd-color: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-68:hover { background: in=
-herit; }
-
-.editorbx-splitMenu-69 { outline: transparent; position: relative; font-fam=
-ily: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system,=
- BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smo=
-othing: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, =
-48); background-color: transparent; border: none; width: 100%; height: 36px=
-; line-height: 36px; display: block; cursor: pointer; padding: 0px 8px; tex=
-t-align: left; flex-basis: 0px; min-width: 28px; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-69:focus::after { content: "=
-"; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); ou=
-tline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-splitMenu-69:hover { background-color: rgb(243, 242, 241); color:=
- rgb(32, 31, 30); }
-
-.editorbx-splitMenu-69:hover .ms-ContextualMenu-icon { color: rgb(16, 110, =
-190); }
-
-.editorbx-splitMenu-69:hover .ms-ContextualMenu-submenuIcon { color: rgb(50=
-, 49, 48); }
-
-.editorbx-splitMenu-69:active { background-color: rgb(237, 235, 233); }
-
-.editorbx-splitMenu-69:active .ms-ContextualMenu-icon { color: rgb(0, 90, 1=
-58); }
-
-.editorbx-splitMenu-69:active .ms-ContextualMenu-submenuIcon { color: rgb(5=
-0, 49, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-69:focus { background-color:=
- rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-69:focus:hover { background-=
-color: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-69:hover { background: inher=
-it; }
-
-.editorbx-icon-70 { display: inline-block; min-height: 1px; max-height: 36p=
-x; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: middle; f=
-lex-shrink: 0; }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-icon-70 { font-size: 20px; width: 20px; }
-}
-
-.editorbx-subMenuIcon-71 { height: 36px; line-height: 36px; color: rgb(96, =
-94, 92); text-align: center; display: inline-block; vertical-align: middle;=
- flex-shrink: 0; font-size: 12px; }
-
-.editorbx-subMenuIcon-71:hover { color: rgb(50, 49, 48); }
-
-.editorbx-subMenuIcon-71:active { color: rgb(50, 49, 48); }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-subMenuIcon-71 { font-size: 16px; }
-}
-
-.editorbx-splitContainer-72 { outline: transparent; position: relative; dis=
-play: flex; height: 36px; flex-wrap: nowrap; justify-content: center; align=
--items: flex-start; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-72:focus::after { conte=
-nt: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255=
-); outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-72:focus { background-c=
-olor: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-72:focus:hover { backgr=
-ound-color: rgb(255, 255, 255); }
-
-.editorbx-root-73 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, 48); =
-background-color: transparent; border: none; width: 100%; height: 36px; lin=
-e-height: 36px; display: block; cursor: pointer; padding: 0px 8px 0px 4px; =
-text-align: left; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-root-73:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-.editorbx-root-73:hover .ms-ContextualMenu-icon { color: rgb(16, 110, 190);=
- }
-
-.editorbx-root-73:hover .ms-ContextualMenu-submenuIcon { color: rgb(50, 49,=
- 48); }
-
-.editorbx-root-73:active { background-color: rgb(225, 223, 221); }
-
-.editorbx-root-73:active .ms-ContextualMenu-icon { color: rgb(0, 90, 158); =
-}
-
-.editorbx-root-73:active .ms-ContextualMenu-submenuIcon { color: rgb(50, 49=
-, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:focus { background-color: rgb(=
-255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:focus:hover { background-color=
-: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:hover { background: inherit; }
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
-Content-Type: text/css
-Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-b19bcc3d-0e14-469d-8647-9f7180cc650a@mhtml.blink
-
-@charset "utf-8";
-
-.editorbx-css-0 { overflow: hidden !important; }
-
-.editorbx-css-1 { animation-name: editorbx-css-0, editorbx-css-10; animatio=
-n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
-1); animation-fill-mode: both; }
-
-.editorbx-css-2 { animation-name: editorbx-css-0, editorbx-css-12; animatio=
-n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
-1); animation-fill-mode: both; }
-
-.editorbx-css-3 { animation-name: editorbx-css-0, editorbx-css-6; animation=
--duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, 1=
-); animation-fill-mode: both; }
-
-.editorbx-css-4 { animation-name: editorbx-css-0, editorbx-css-2; animation=
--duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, 1=
-); animation-fill-mode: both; }
-
-.editorbx-root-5 { display: inline-block; }
-
-.editorbx-placeholder-6 { width: 1em; }
-
-.editorbx-image-7 { overflow: hidden; }
-
-.editorbx-body-8 { color: rgb(50, 49, 48); background: rgb(255, 255, 255); =
-font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple=
--system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; font-wei=
-ght: 400; font-size: 14px; -webkit-font-smoothing: antialiased; }
-
-.editorbx-container-9 { position: relative; }
-
-.editorbx-root-10 { font-family: "Segoe UI Web (West European)", "Segoe UI"=
-, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; =
--webkit-font-smoothing: antialiased; font-size: 14px; font-weight: 400; pos=
-ition: absolute; display: flex; z-index: 1000000; box-sizing: border-box; b=
-order-radius: 2px; box-shadow: rgba(0, 0, 0, 0.133) 0px 6.4px 14.4px 0px, r=
-gba(0, 0, 0, 0.11) 0px 1.2px 3.6px 0px; outline: transparent; max-width: 45=
-0px; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-10 { border-width: 1px; border-style: solid; border-color:=
- windowtext; }
-}
-
-.editorbx-beak-11 { position: absolute; background-color: rgb(255, 255, 255=
-); box-shadow: inherit; border: inherit; box-sizing: border-box; transform:=
- rotate(45deg); height: 16px; width: 16px; }
-
-.editorbx-beakCurtain-12 { position: absolute; inset: 0px; background-color=
-: rgb(255, 255, 255); border-radius: 2px; }
-
-.editorbx-calloutMain-13 { background-color: rgb(255, 255, 255); overflow: =
-hidden auto; position: relative; width: 100%; border-radius: 2px; min-width=
-: 288px; padding-top: 14px; font-family: "Segoe UI Web (West European)", "S=
-egoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans=
--serif; }
-
-@font-face { font-family: FabricMDL2Icons-3; src: url("chrome-extension://g=
-paiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.cssfabric-icons-3-089e21=
-7a.woff") format("woff"); }
-
-.editorbx-css-15 { -webkit-font-smoothing: antialiased; font-style: normal;=
- font-weight: normal; speak: none; font-family: FabricMDL2Icons-3; }
-
-.editorbx-root-16 { display: inline-block; -webkit-font-smoothing: antialia=
-sed; font-style: normal; font-weight: normal; speak: none; font-family: Fab=
-ricMDL2Icons; color: rgb(90, 78, 188); font-size: 7px; line-height: 18px; w=
-idth: auto; height: auto; }
-
-@font-face { font-family: FabricMDL2Icons-0; src: url("chrome-extension://g=
-paiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.cssfabric-icons-0-467ee2=
-7f.woff") format("woff"); }
-
-.editorbx-css-18 { -webkit-font-smoothing: antialiased; font-style: normal;=
- font-weight: normal; speak: none; font-family: FabricMDL2Icons-0; }
-
-.editorbx-root-19 { display: inline-block; -webkit-font-smoothing: antialia=
-sed; font-style: normal; font-weight: 700; speak: none; font-family: Fabric=
-MDL2Icons; font-size: 10px; width: auto; height: auto; padding-right: 5px; =
-}
-
-.editorbx-root-20 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 600; color: rgb(50, 49, 48); box-sizing: border-box; box-shadow: none; =
-margin: 0px; display: block; padding: 5px 0px; overflow-wrap: break-word; }
-
-.editorbx-root-21 { font-family: "Segoe UI Web (West European)", "Segoe UI"=
-, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; =
--webkit-font-smoothing: antialiased; font-size: 12px; font-weight: 400; col=
-or: rgb(59, 58, 57); box-sizing: border-box; box-shadow: none; margin: 0px =
-0px 8px; display: block; padding: 0px 12px; overflow-wrap: break-word; user=
--select: none; }
-
-@media screen and (forced-colors: active) {
-  .editorbx-root-21 { color: windowtext; }
-}
-
-.editorbx-root-22 { outline: transparent; position: relative; font-family: =
-"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
-nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
-ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: none=
-; display: inline-block; text-decoration: none; text-align: center; cursor:=
- pointer; padding: 7px 6px 9px; border-radius: 2px; max-width: 400px; min-h=
-eight: 36px; height: auto; background-color: transparent; color: rgb(50, 49=
-, 48); flex-grow: 1; user-select: none; width: 100% !important; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-22:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-22:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-22:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-22.ms-editor-focus { background-color: transparent; border: =
-1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-22:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); border: none; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-22:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-22:hover .ms-Button-description { color: rgb(32, 31, 30); }
-
-.editorbx-root-22:focus { background-color: transparent; border: 1px solid =
-rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-22:active { background-color: rgb(237, 235, 233); color: rgb=
-(32, 31, 30); }
-
-.editorbx-root-22:active .ms-Button-description { color: inherit; }
-
-.editorbx-flexContainer-23 { display: flex; height: 100%; flex-flow: row no=
-wrap; justify-content: center; align-items: flex-start; min-width: 100%; }
-
-.editorbx-textContainer-24 { flex-grow: 1; display: block; text-align: left=
-; }
-
-.editorbx-icon-25 { font-size: 2em; margin: 0px 8px 0px 0px; height: 1em; l=
-ine-height: 1em; text-align: center; flex-shrink: 0; flex-basis: 1em; }
-
-.editorbx-label-26 { margin: 0px 0px 5px; line-height: 100%; display: block=
-; font-weight: 600; }
-
-.editorbx-menuIcon-27 { font-size: 12px; margin: 0px 4px; height: 16px; lin=
-e-height: 16px; text-align: center; flex-shrink: 0; }
-
-.editorbx-description-28 { display: block; font-family: "Segoe UI", "Segoe =
-UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Rob=
-oto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; fon=
-t-size: 12px; font-weight: 400; line-height: 100%; color: rgb(59, 58, 57); =
-}
-
-.editorbx-screenReaderText-29 { position: absolute; width: 1px; height: 1px=
-; margin: -1px; padding: 0px; border: 0px; overflow: hidden; white-space: n=
-owrap; }
-
-.editorbx-root-30 { outline: transparent; position: relative; font-family: =
-"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
-nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
-ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: none=
- rgb(243, 242, 241); display: inline-block; text-decoration: none; text-ali=
-gn: center; cursor: default; padding: 7px 6px 9px; border-radius: 2px; max-=
-width: 400px; min-height: 36px; height: auto; background-color: transparent=
-; color: rgb(161, 159, 157); flex-grow: 1; user-select: none; width: 100% !=
-important; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-30:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-30:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-30:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-30.ms-editor-focus { background-color: transparent; border: =
-1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-30:hover { outline: 0px; }
-
-.editorbx-root-30:focus { outline: 0px; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-30 { color: graytext; border-color: graytext; background-c=
-olor: window; }
-}
-
-.editorbx-icon-31 { font-size: 2em; margin: 0px 8px 0px 0px; height: 1em; l=
-ine-height: 1em; text-align: center; flex-shrink: 0; flex-basis: 1em; color=
-: rgb(161, 159, 157); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-icon-31 { color: graytext; }
-}
-
-.editorbx-menuIcon-32 { font-size: 12px; margin: 0px 4px; height: 16px; lin=
-e-height: 16px; text-align: center; flex-shrink: 0; color: rgb(161, 159, 15=
-7); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-menuIcon-32 { color: graytext; }
-}
-
-.editorbx-description-33 { display: block; font-family: "Segoe UI", "Segoe =
-UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Rob=
-oto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; fon=
-t-size: 12px; font-weight: 400; line-height: 100%; color: inherit; }
-
-.editorbx-root-34 { outline: transparent; position: relative; font-family: =
-"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
-nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
-ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: 1px =
-solid rgb(96, 94, 92); display: inline-block; text-decoration: none; text-a=
-lign: center; cursor: default; padding: 7px 6px 9px; border-radius: 2px; ma=
-x-width: 400px; min-height: 36px; height: auto; background-color: transpare=
-nt; color: rgb(161, 159, 157); flex-grow: 1; user-select: none; width: 100%=
- !important; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-34:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-34:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-34:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-34.ms-editor-focus { background-color: transparent; border: =
-1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
-
-.editorbx-root-34:hover { outline: 0px; }
-
-.editorbx-root-34:focus { outline: 0px; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-34 { color: graytext; border-color: graytext; background-c=
-olor: window; }
-}
-
-.editorbx-textContainer-35 { flex-grow: 1; display: block; text-align: righ=
-t; }
-
-.editorbx-root-36 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
-border: none; display: inline-block; text-decoration: none; text-align: lef=
-t; cursor: pointer; padding: 0px; border-radius: 2px; min-width: auto; heig=
-ht: 24px; background-color: rgb(255, 255, 255); color: rgb(59, 58, 57); poi=
-nter-events: all; margin: 0px 8px 0px 0px; max-height: 24px; min-height: 24=
-px; flex-grow: 0; white-space: nowrap; overflow: visible; user-select: none=
-; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-36:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-36:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-36:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-36.ms-editor-focus { background-color: transparent; outline:=
- rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-36:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-36:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-36:focus { outline: rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-36:active { background-color: rgb(219, 219, 219); color: rgb=
-(32, 31, 30); }
-
-.editorbx-flexContainer-37 { display: flex; height: 100%; flex-wrap: nowrap=
-; justify-content: center; align-items: center; pointer-events: all; }
-
-.editorbx-textContainer-38 { flex-grow: 1; display: block; }
-
-.editorbx-icon-39 { font-size: 16px; margin: 0px 4px; height: 16px; line-he=
-ight: 16px; text-align: center; flex-shrink: 0; }
-
-.editorbx-label-40 { margin: 0px 4px; line-height: 100%; display: block; fo=
-nt-weight: 400; }
-
-.editorbx-description-41 { display: block; }
-
-.editorbx-root-42 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
-border: none; display: inline-block; text-decoration: none; text-align: cen=
-ter; cursor: pointer; padding: 3px 0px 0px; border-radius: 2px; min-width: =
-auto; height: 24px; background-color: rgb(255, 255, 255); color: rgb(50, 49=
-, 48); margin: 0px 8px 0px 0px; max-height: 24px; min-height: 24px; flex-gr=
-ow: 0; white-space: nowrap; user-select: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-42:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-42:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-42:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-42.ms-editor-focus { background-color: transparent; outline:=
- rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-42:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-42:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-42:focus { outline: rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-42:active { background-color: rgb(219, 219, 219); color: rgb=
-(32, 31, 30); }
-
-.editorbx-flexContainer-43 { display: flex; height: 100%; flex-wrap: nowrap=
-; justify-content: center; align-items: center; }
-
-.editorbx-label-44 { margin: 0px 4px; line-height: 100%; display: block; fo=
-nt-weight: 600; }
-
-@font-face { font-family: FabricMDL2Icons; src: url("chrome-extension://gpa=
-iobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.cssfabric-icons-a13498cf.w=
-off") format("woff"); }
-
-.editorbx-css-46 { -webkit-font-smoothing: antialiased; font-style: normal;=
- font-weight: normal; speak: none; font-family: FabricMDL2Icons; }
-
-.editorbx-root-47 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
-border: none; display: inline-block; text-decoration: none; text-align: cen=
-ter; cursor: pointer; padding: 0px; border-radius: 2px; min-width: 25px; he=
-ight: 24px; background-color: rgb(255, 255, 255); color: rgb(50, 49, 48); w=
-idth: 25px; margin: 0px; max-height: 24px; min-height: 24px; flex-grow: 0; =
-user-select: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-47:focus::after { content: ""; po=
-sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
-6, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .ms-Fabric--isFocusVisible .editorbx-root-47:focus::after { inset: -2px; =
-outline-color: buttontext; }
-}
-
-.editorbx-root-47:active > span { position: relative; left: 0px; top: 0px; =
-}
-
-.editorbx-root-47.ms-editor-focus { background-color: transparent; outline:=
- rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-47:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-47:hover { border-color: highlight; color: highlight; }
-}
-
-.editorbx-root-47:focus { outline: rgb(96, 94, 92) solid 1px; }
-
-.editorbx-root-47:active { background-color: rgb(219, 219, 219); color: rgb=
-(32, 31, 30); }
-
-.editorbx-root-48 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 400; background-color: rgb(255, 255, 255); min-width: 180px; }
-
-.editorbx-container-49:focus { outline: 0px; }
-
-.editorbx-list-50 { list-style-type: none; margin: 0px; padding: 0px; }
-
-.editorbx-header-51 { font-family: "Segoe UI", "Segoe UI Web (West European=
-)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue"=
-, sans-serif; -webkit-font-smoothing: antialiased; font-size: 12px; font-we=
-ight: 600; color: rgb(0, 120, 212); background: none transparent; border: n=
-one; height: 36px; line-height: 36px; cursor: default; padding: 0px 6px; te=
-xt-align: left; user-select: none; }
-
-.editorbx-title-52 { font-size: 16px; padding: 5px 14px; background-color: =
-rgb(237, 235, 233); }
-
-.editorbx-item-53 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 400; color: rgb(50, 49, 48); position: relative; box-sizing: border-box=
-; }
-
-.editorbx-divider-54 { display: block; height: 1px; background-color: rgb(2=
-37, 235, 233); position: relative; }
-
-.editorbx-root-55 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159, 157=
-); background-color: transparent; border: none; width: 100%; height: 36px; =
-line-height: 36px; display: block; cursor: default; padding: 0px 8px 0px 4p=
-x; text-align: left; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-55:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-55 { color: graytext; opacity: 1; }
-}
-
-.editorbx-splitPrimary-56 { outline: transparent; position: relative; font-=
-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-syst=
-em, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-=
-smoothing: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, =
-159, 157); background-color: transparent; border: none; width: calc(100% - =
-28px); height: 36px; line-height: 36px; display: block; cursor: default; pa=
-dding: 0px 8px 0px 4px; text-align: left; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-56:focus::after { content=
-: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255);=
- outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-splitPrimary-56 { color: graytext; opacity: 1; }
-}
-
-.editorbx-splitMenu-57 { outline: transparent; position: relative; font-fam=
-ily: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system,=
- BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smo=
-othing: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159=
-, 157); background-color: transparent; border: none; width: 100%; height: 3=
-6px; line-height: 36px; display: block; cursor: default; padding: 0px 8px; =
-text-align: left; flex-basis: 0px; min-width: 28px; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-57:focus::after { content: "=
-"; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); ou=
-tline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-splitMenu-57 { color: graytext; opacity: 1; }
-}
-
-.editorbx-anchorLink-58 { padding: 0px 8px 0px 4px; text-rendering: auto; c=
-olor: inherit; letter-spacing: normal; word-spacing: normal; text-transform=
-: none; text-indent: 0px; text-shadow: none; text-decoration: none; box-siz=
-ing: border-box; }
-
-.editorbx-linkContent-59 { white-space: nowrap; height: inherit; display: f=
-lex; align-items: center; max-width: 100%; }
-
-.editorbx-linkContentMenu-60 { white-space: nowrap; height: inherit; displa=
-y: flex; align-items: center; max-width: 100%; justify-content: center; }
-
-.editorbx-icon-61 { display: inline-block; min-height: 1px; max-height: 36p=
-x; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: middle; f=
-lex-shrink: 0; color: rgb(161, 159, 157); }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-icon-61 { font-size: 20px; width: 20px; }
-}
-
-.editorbx-iconColor-62 { color: rgb(0, 120, 212); }
-
-.editorbx-checkmarkIcon-63 { display: inline-block; min-height: 1px; max-he=
-ight: 36px; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: =
-middle; flex-shrink: 0; }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-checkmarkIcon-63 { font-size: 20px; width: 20px; }
-}
-
-.editorbx-subMenuIcon-64 { height: 36px; line-height: 36px; color: rgb(161,=
- 159, 157); text-align: center; display: inline-block; vertical-align: midd=
-le; flex-shrink: 0; font-size: 12px; }
-
-.editorbx-subMenuIcon-64:hover { color: rgb(50, 49, 48); }
-
-.editorbx-subMenuIcon-64:active { color: rgb(50, 49, 48); }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-subMenuIcon-64 { font-size: 16px; }
-}
-
-.editorbx-label-65 { margin: 0px 4px; vertical-align: middle; display: inli=
-ne-block; flex-grow: 1; text-overflow: ellipsis; white-space: nowrap; }
-
-.editorbx-secondaryText-66 { color: rgb(96, 94, 92); padding-left: 20px; te=
-xt-align: right; }
-
-.editorbx-splitContainer-67 { outline: transparent; position: relative; dis=
-play: flex; height: 36px; flex-wrap: nowrap; justify-content: center; align=
--items: flex-start; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-67:focus::after { conte=
-nt: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255=
-); outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-screenReaderText-68 { position: absolute; width: 1px; height: 1px=
-; margin: -1px; padding: 0px; border: 0px; overflow: hidden; white-space: n=
-owrap; visibility: hidden; }
-
-.editorbx-root-69 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159, 157=
-); background-color: transparent; border: none; width: 100%; height: 36px; =
-line-height: 36px; display: block; cursor: default; padding: 0px 8px 0px 4p=
-x; text-align: left; pointer-events: none; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-69:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-69 { color: graytext; opacity: 1; }
-}
-
-.editorbx-root-69:hover { background-color: rgb(243, 242, 241); }
-
-.editorbx-root-69:active { background-color: rgb(225, 223, 221); }
-
-.editorbx-root-70 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
-, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
-sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
-ht: 400; position: absolute; display: flex; z-index: 1000000; box-sizing: b=
-order-box; border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.133) 0px 6.4px 1=
-4.4px 0px, rgba(0, 0, 0, 0.11) 0px 1.2px 3.6px 0px; outline: transparent; }
-
-@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
-ctive) {
-  .editorbx-root-70 { border-width: 1px; border-style: solid; border-color:=
- windowtext; }
-}
-
-.editorbx-calloutMain-71 { background-color: rgb(255, 255, 255); overflow: =
-hidden; position: relative; width: 100%; border-radius: 2px; }
-
-.editorbx-css-72:focus { outline: none; }
-
-.editorbx-root-73 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, 48); =
-background-color: transparent; border: none; width: 100%; height: 36px; lin=
-e-height: 36px; display: block; cursor: pointer; padding: 0px 8px 0px 4px; =
-text-align: left; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-root-73:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-.editorbx-root-73:hover .ms-ContextualMenu-icon { color: rgb(16, 110, 190);=
- }
-
-.editorbx-root-73:hover .ms-ContextualMenu-submenuIcon { color: rgb(50, 49,=
- 48); }
-
-.editorbx-root-73:active { background-color: rgb(237, 235, 233); }
-
-.editorbx-root-73:active .ms-ContextualMenu-icon { color: rgb(0, 90, 158); =
-}
-
-.editorbx-root-73:active .ms-ContextualMenu-submenuIcon { color: rgb(50, 49=
-, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:focus { background-color: rgb(=
-255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:focus:hover { background-color=
-: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-73:hover { background: inherit; }
-
-.editorbx-splitPrimary-74 { outline: transparent; position: relative; font-=
-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-syst=
-em, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-=
-smoothing: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 4=
-9, 48); background-color: transparent; border: none; width: calc(100% - 28p=
-x); height: 36px; line-height: 36px; display: block; cursor: pointer; paddi=
-ng: 0px 8px 0px 4px; text-align: left; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-74:focus::after { content=
-: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255);=
- outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-splitPrimary-74:hover { background-color: rgb(243, 242, 241); col=
-or: rgb(32, 31, 30); }
-
-.editorbx-splitPrimary-74:hover .ms-ContextualMenu-icon { color: rgb(16, 11=
-0, 190); }
-
-.editorbx-splitPrimary-74:hover .ms-ContextualMenu-submenuIcon { color: rgb=
-(50, 49, 48); }
-
-.editorbx-splitPrimary-74:hover ~ .ms-ContextualMenu-splitMenu { background=
--color: rgb(243, 242, 241); color: rgb(32, 31, 30); }
-
-.editorbx-splitPrimary-74:hover ~ .ms-ContextualMenu-splitMenu .ms-Contextu=
-alMenu-icon { color: rgb(16, 110, 190); }
-
-.editorbx-splitPrimary-74:hover ~ .ms-ContextualMenu-splitMenu .ms-Contextu=
-alMenu-submenuIcon { color: rgb(50, 49, 48); }
-
-.editorbx-splitPrimary-74:active { background-color: rgb(237, 235, 233); }
-
-.editorbx-splitPrimary-74:active .ms-ContextualMenu-icon { color: rgb(0, 90=
-, 158); }
-
-.editorbx-splitPrimary-74:active .ms-ContextualMenu-submenuIcon { color: rg=
-b(50, 49, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-74:focus { background-col=
-or: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-74:focus:hover { backgrou=
-nd-color: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitPrimary-74:hover { background: in=
-herit; }
-
-.editorbx-splitMenu-75 { outline: transparent; position: relative; font-fam=
-ily: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system,=
- BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smo=
-othing: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, =
-48); background-color: transparent; border: none; width: 100%; height: 36px=
-; line-height: 36px; display: block; cursor: pointer; padding: 0px 8px; tex=
-t-align: left; flex-basis: 0px; min-width: 28px; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-75:focus::after { content: "=
-"; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); ou=
-tline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-splitMenu-75:hover { background-color: rgb(243, 242, 241); color:=
- rgb(32, 31, 30); }
-
-.editorbx-splitMenu-75:hover .ms-ContextualMenu-icon { color: rgb(16, 110, =
-190); }
-
-.editorbx-splitMenu-75:hover .ms-ContextualMenu-submenuIcon { color: rgb(50=
-, 49, 48); }
-
-.editorbx-splitMenu-75:active { background-color: rgb(237, 235, 233); }
-
-.editorbx-splitMenu-75:active .ms-ContextualMenu-icon { color: rgb(0, 90, 1=
-58); }
-
-.editorbx-splitMenu-75:active .ms-ContextualMenu-submenuIcon { color: rgb(5=
-0, 49, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-75:focus { background-color:=
- rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-75:focus:hover { background-=
-color: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitMenu-75:hover { background: inher=
-it; }
-
-.editorbx-icon-76 { display: inline-block; min-height: 1px; max-height: 36p=
-x; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: middle; f=
-lex-shrink: 0; }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-icon-76 { font-size: 20px; width: 20px; }
-}
-
-.editorbx-subMenuIcon-77 { height: 36px; line-height: 36px; color: rgb(96, =
-94, 92); text-align: center; display: inline-block; vertical-align: middle;=
- flex-shrink: 0; font-size: 12px; }
-
-.editorbx-subMenuIcon-77:hover { color: rgb(50, 49, 48); }
-
-.editorbx-subMenuIcon-77:active { color: rgb(50, 49, 48); }
-
-@media only screen and (min-width: 0px) and (max-width: 639px) {
-  .editorbx-subMenuIcon-77 { font-size: 16px; }
-}
-
-.editorbx-splitContainer-78 { outline: transparent; position: relative; dis=
-play: flex; height: 36px; flex-wrap: nowrap; justify-content: center; align=
--items: flex-start; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-78:focus::after { conte=
-nt: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255=
-); outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-78:focus { background-c=
-olor: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-splitContainer-78:focus:hover { backgr=
-ound-color: rgb(255, 255, 255); }
-
-.editorbx-root-79 { outline: transparent; position: relative; font-family: =
-"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
-kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
-g: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, 48); =
-background-color: transparent; border: none; width: 100%; height: 36px; lin=
-e-height: 36px; display: block; cursor: pointer; padding: 0px 8px 0px 4px; =
-text-align: left; }
-
-.ms-Fabric--isFocusVisible .editorbx-root-79:focus::after { content: ""; po=
-sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
-: rgb(96, 94, 92) solid 1px; z-index: 1; }
-
-.editorbx-root-79:hover { background-color: rgb(243, 242, 241); color: rgb(=
-32, 31, 30); }
-
-.editorbx-root-79:hover .ms-ContextualMenu-icon { color: rgb(16, 110, 190);=
- }
-
-.editorbx-root-79:hover .ms-ContextualMenu-submenuIcon { color: rgb(50, 49,=
- 48); }
-
-.editorbx-root-79:active { background-color: rgb(225, 223, 221); }
-
-.editorbx-root-79:active .ms-ContextualMenu-icon { color: rgb(0, 90, 158); =
-}
-
-.editorbx-root-79:active .ms-ContextualMenu-submenuIcon { color: rgb(50, 49=
-, 48); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-79:focus { background-color: rgb(=
-255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-79:focus:hover { background-color=
-: rgb(255, 255, 255); }
-
-.ms-Fabric--isFocusVisible .editorbx-root-79:hover { background: inherit; }
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
-Content-Type: text/css
-Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-756b7a41-caf8-4a6f-9ed2-e0ca4f9f605c@mhtml.blink
-
-@charset "utf-8";
 
 @font-face { font-family: "Leelawadee UI Web"; src: url("https://res-1.cdn.=
 office.net/files/fabric-cdn-prod_20221209.001/assets/fonts/leelawadeeui-tha=
@@ -3057,10 +983,801 @@ i/leelawadeeui-bold.woff2") format("woff2"), url("https://res-1.cdn.office.=
 net/files/fabric-cdn-prod_20221209.001/assets/fonts/leelawadeeui-thai/leela=
 wadeeui-bold.woff") format("woff"); font-weight: 600; font-style: normal; f=
 ont-display: swap; }
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://192.168.43.79:60820/styles.css
+Content-Location: cid:css-4a679676-2438-4cf2-b774-0f3256b1e6e3@mhtml.blink
+
+@charset "utf-8";
+
+.editorbx-body-89 { color: rgb(50, 49, 48); background: rgb(255, 255, 255);=
+ font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -appl=
+e-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; font-we=
+ight: 400; font-size: 14px; -webkit-font-smoothing: antialiased; }
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-50798c2a-5473-4e48-852c-687a70bc8429@mhtml.blink
+
+@charset "utf-8";
+
+.editorbx-css-0 { overflow: hidden !important; }
+
+.editorbx-css-1 { animation-name: editorbx-css-0, editorbx-css-10; animatio=
+n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
+1); animation-fill-mode: both; }
+
+.editorbx-css-2 { animation-name: editorbx-css-0, editorbx-css-12; animatio=
+n-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, =
+1); animation-fill-mode: both; }
+
+.editorbx-css-3 { animation-name: editorbx-css-0, editorbx-css-6; animation=
+-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, 1=
+); animation-fill-mode: both; }
+
+.editorbx-css-4 { animation-name: editorbx-css-0, editorbx-css-2; animation=
+-duration: 0.367s; animation-timing-function: cubic-bezier(0.1, 0.9, 0.2, 1=
+); animation-fill-mode: both; }
+
+.editorbx-root-5 { display: inline-block; }
+
+.editorbx-placeholder-6 { width: 1em; }
+
+.editorbx-image-7 { overflow: hidden; }
+
+.editorbx-container-8 { position: relative; }
+
+.editorbx-root-9 { font-family: "Segoe UI Web (West European)", "Segoe UI",=
+ -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -=
+webkit-font-smoothing: antialiased; font-size: 14px; font-weight: 400; posi=
+tion: absolute; display: flex; z-index: 1000000; box-sizing: border-box; bo=
+rder-radius: 2px; box-shadow: rgba(0, 0, 0, 0.133) 0px 6.4px 14.4px 0px, rg=
+ba(0, 0, 0, 0.11) 0px 1.2px 3.6px 0px; outline: transparent; max-width: 450=
+px; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-9 { border-width: 1px; border-style: solid; border-color: =
+windowtext; }
+}
+
+.editorbx-beak-10 { position: absolute; background-color: rgb(255, 255, 255=
+); box-shadow: inherit; border: inherit; box-sizing: border-box; transform:=
+ rotate(45deg); height: 16px; width: 16px; }
+
+.editorbx-beakCurtain-11 { position: absolute; inset: 0px; background-color=
+: rgb(255, 255, 255); border-radius: 2px; }
+
+.editorbx-calloutMain-12 { background-color: rgb(255, 255, 255); overflow: =
+hidden auto; position: relative; width: 100%; border-radius: 2px; min-width=
+: 288px; padding-top: 14px; font-family: "Segoe UI Web (West European)", "S=
+egoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans=
+-serif; }
+
+@font-face { font-family: FabricMDL2Icons-3; src: url("chrome-extension://g=
+paiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.cssfabric-icons-3-089e21=
+7a.woff") format("woff"); }
+
+.editorbx-css-14 { -webkit-font-smoothing: antialiased; font-style: normal;=
+ font-weight: normal; speak: none; font-family: FabricMDL2Icons-3; }
+
+.editorbx-root-15 { display: inline-block; -webkit-font-smoothing: antialia=
+sed; font-style: normal; font-weight: normal; speak: none; font-family: Fab=
+ricMDL2Icons; color: rgb(90, 78, 188); font-size: 7px; line-height: 18px; w=
+idth: auto; height: auto; }
+
+@font-face { font-family: FabricMDL2Icons-0; src: url("chrome-extension://g=
+paiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.cssfabric-icons-0-467ee2=
+7f.woff") format("woff"); }
+
+.editorbx-css-17 { -webkit-font-smoothing: antialiased; font-style: normal;=
+ font-weight: normal; speak: none; font-family: FabricMDL2Icons-0; }
+
+.editorbx-root-18 { display: inline-block; -webkit-font-smoothing: antialia=
+sed; font-style: normal; font-weight: 700; speak: none; font-family: Fabric=
+MDL2Icons; font-size: 10px; width: auto; height: auto; padding-right: 5px; =
+}
+
+.editorbx-root-19 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
+, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
+sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
+ht: 600; color: rgb(50, 49, 48); box-sizing: border-box; box-shadow: none; =
+margin: 0px; display: block; padding: 5px 0px; overflow-wrap: break-word; }
+
+.editorbx-root-20 { font-family: "Segoe UI Web (West European)", "Segoe UI"=
+, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; =
+-webkit-font-smoothing: antialiased; font-size: 12px; font-weight: 400; col=
+or: rgb(59, 58, 57); box-sizing: border-box; box-shadow: none; margin: 0px =
+0px 8px; display: block; padding: 0px 12px; overflow-wrap: break-word; user=
+-select: none; }
+
+@media screen and (forced-colors: active) {
+  .editorbx-root-20 { color: windowtext; }
+}
+
+.editorbx-root-21 { outline: transparent; position: relative; font-family: =
+"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
+nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
+ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: none=
+; display: inline-block; text-decoration: none; text-align: center; cursor:=
+ pointer; padding: 7px 6px 9px; border-radius: 2px; max-width: 400px; min-h=
+eight: 36px; height: auto; background-color: transparent; color: rgb(50, 49=
+, 48); flex-grow: 1; user-select: none; width: 100% !important; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-21:focus::after { content: ""; po=
+sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
+6, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .ms-Fabric--isFocusVisible .editorbx-root-21:focus::after { inset: -2px; =
+outline-color: buttontext; }
+}
+
+.editorbx-root-21:active > span { position: relative; left: 0px; top: 0px; =
+}
+
+.editorbx-root-21.ms-editor-focus { background-color: transparent; border: =
+1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
+
+.editorbx-root-21:hover { background-color: rgb(243, 242, 241); color: rgb(=
+32, 31, 30); border: none; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-21:hover { border-color: highlight; color: highlight; }
+}
+
+.editorbx-root-21:hover .ms-Button-description { color: rgb(32, 31, 30); }
+
+.editorbx-root-21:focus { background-color: transparent; border: 1px solid =
+rgb(96, 94, 92); padding: 6px 5px 8px; }
+
+.editorbx-root-21:active { background-color: rgb(237, 235, 233); color: rgb=
+(32, 31, 30); }
+
+.editorbx-root-21:active .ms-Button-description { color: inherit; }
+
+.editorbx-flexContainer-22 { display: flex; height: 100%; flex-flow: row no=
+wrap; justify-content: center; align-items: flex-start; min-width: 100%; }
+
+.editorbx-textContainer-23 { flex-grow: 1; display: block; text-align: left=
+; }
+
+.editorbx-icon-24 { font-size: 2em; margin: 0px 8px 0px 0px; height: 1em; l=
+ine-height: 1em; text-align: center; flex-shrink: 0; flex-basis: 1em; }
+
+.editorbx-label-25 { margin: 0px 0px 5px; line-height: 100%; display: block=
+; font-weight: 600; }
+
+.editorbx-menuIcon-26 { font-size: 12px; margin: 0px 4px; height: 16px; lin=
+e-height: 16px; text-align: center; flex-shrink: 0; }
+
+.editorbx-description-27 { display: block; font-family: "Segoe UI", "Segoe =
+UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Rob=
+oto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; fon=
+t-size: 12px; font-weight: 400; line-height: 100%; color: rgb(59, 58, 57); =
+}
+
+.editorbx-screenReaderText-28 { position: absolute; width: 1px; height: 1px=
+; margin: -1px; padding: 0px; border: 0px; overflow: hidden; white-space: n=
+owrap; }
+
+.editorbx-root-29 { outline: transparent; position: relative; font-family: =
+"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
+nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
+ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: none=
+ rgb(243, 242, 241); display: inline-block; text-decoration: none; text-ali=
+gn: center; cursor: default; padding: 7px 6px 9px; border-radius: 2px; max-=
+width: 400px; min-height: 36px; height: auto; background-color: transparent=
+; color: rgb(161, 159, 157); flex-grow: 1; user-select: none; width: 100% !=
+important; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-29:focus::after { content: ""; po=
+sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
+6, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .ms-Fabric--isFocusVisible .editorbx-root-29:focus::after { inset: -2px; =
+outline-color: buttontext; }
+}
+
+.editorbx-root-29:active > span { position: relative; left: 0px; top: 0px; =
+}
+
+.editorbx-root-29.ms-editor-focus { background-color: transparent; border: =
+1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
+
+.editorbx-root-29:hover { outline: 0px; }
+
+.editorbx-root-29:focus { outline: 0px; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-29 { color: graytext; border-color: graytext; background-c=
+olor: window; }
+}
+
+.editorbx-icon-30 { font-size: 2em; margin: 0px 8px 0px 0px; height: 1em; l=
+ine-height: 1em; text-align: center; flex-shrink: 0; flex-basis: 1em; color=
+: rgb(161, 159, 157); }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-icon-30 { color: graytext; }
+}
+
+.editorbx-menuIcon-31 { font-size: 12px; margin: 0px 4px; height: 16px; lin=
+e-height: 16px; text-align: center; flex-shrink: 0; color: rgb(161, 159, 15=
+7); }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-menuIcon-31 { color: graytext; }
+}
+
+.editorbx-description-32 { display: block; font-family: "Segoe UI", "Segoe =
+UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Rob=
+oto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; fon=
+t-size: 12px; font-weight: 400; line-height: 100%; color: inherit; }
+
+.editorbx-root-33 { outline: transparent; position: relative; font-family: =
+"Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFo=
+nt, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialias=
+ed; font-size: 14px; font-weight: 400; box-sizing: border-box; border: 1px =
+solid rgb(96, 94, 92); display: inline-block; text-decoration: none; text-a=
+lign: center; cursor: default; padding: 7px 6px 9px; border-radius: 2px; ma=
+x-width: 400px; min-height: 36px; height: auto; background-color: transpare=
+nt; color: rgb(161, 159, 157); flex-grow: 1; user-select: none; width: 100%=
+ !important; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-33:focus::after { content: ""; po=
+sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
+6, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .ms-Fabric--isFocusVisible .editorbx-root-33:focus::after { inset: -2px; =
+outline-color: buttontext; }
+}
+
+.editorbx-root-33:active > span { position: relative; left: 0px; top: 0px; =
+}
+
+.editorbx-root-33.ms-editor-focus { background-color: transparent; border: =
+1px solid rgb(96, 94, 92); padding: 6px 5px 8px; }
+
+.editorbx-root-33:hover { outline: 0px; }
+
+.editorbx-root-33:focus { outline: 0px; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-33 { color: graytext; border-color: graytext; background-c=
+olor: window; }
+}
+
+.editorbx-textContainer-34 { flex-grow: 1; display: block; text-align: righ=
+t; }
+
+.editorbx-root-35 { outline: transparent; position: relative; font-family: =
+"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
+kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
+g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
+border: none; display: inline-block; text-decoration: none; text-align: lef=
+t; cursor: pointer; padding: 0px; border-radius: 2px; min-width: auto; heig=
+ht: 24px; background-color: rgb(255, 255, 255); color: rgb(59, 58, 57); poi=
+nter-events: all; margin: 0px 8px 0px 0px; max-height: 24px; min-height: 24=
+px; flex-grow: 0; white-space: nowrap; overflow: visible; user-select: none=
+; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-35:focus::after { content: ""; po=
+sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
+6, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .ms-Fabric--isFocusVisible .editorbx-root-35:focus::after { inset: -2px; =
+outline-color: buttontext; }
+}
+
+.editorbx-root-35:active > span { position: relative; left: 0px; top: 0px; =
+}
+
+.editorbx-root-35.ms-editor-focus { background-color: transparent; outline:=
+ rgb(96, 94, 92) solid 1px; }
+
+.editorbx-root-35:hover { background-color: rgb(243, 242, 241); color: rgb(=
+32, 31, 30); }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-35:hover { border-color: highlight; color: highlight; }
+}
+
+.editorbx-root-35:focus { outline: rgb(96, 94, 92) solid 1px; }
+
+.editorbx-root-35:active { background-color: rgb(219, 219, 219); color: rgb=
+(32, 31, 30); }
+
+.editorbx-flexContainer-36 { display: flex; height: 100%; flex-wrap: nowrap=
+; justify-content: center; align-items: center; pointer-events: all; }
+
+.editorbx-textContainer-37 { flex-grow: 1; display: block; }
+
+.editorbx-icon-38 { font-size: 16px; margin: 0px 4px; height: 16px; line-he=
+ight: 16px; text-align: center; flex-shrink: 0; }
+
+.editorbx-label-39 { margin: 0px 4px; line-height: 100%; display: block; fo=
+nt-weight: 400; }
+
+.editorbx-description-40 { display: block; }
+
+.editorbx-root-41 { outline: transparent; position: relative; font-family: =
+"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
+kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
+g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
+border: none; display: inline-block; text-decoration: none; text-align: cen=
+ter; cursor: pointer; padding: 3px 0px 0px; border-radius: 2px; min-width: =
+auto; height: 24px; background-color: rgb(255, 255, 255); color: rgb(50, 49=
+, 48); margin: 0px 8px 0px 0px; max-height: 24px; min-height: 24px; flex-gr=
+ow: 0; white-space: nowrap; user-select: none; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-41:focus::after { content: ""; po=
+sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
+6, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .ms-Fabric--isFocusVisible .editorbx-root-41:focus::after { inset: -2px; =
+outline-color: buttontext; }
+}
+
+.editorbx-root-41:active > span { position: relative; left: 0px; top: 0px; =
+}
+
+.editorbx-root-41.ms-editor-focus { background-color: transparent; outline:=
+ rgb(96, 94, 92) solid 1px; }
+
+.editorbx-root-41:hover { background-color: rgb(243, 242, 241); color: rgb(=
+32, 31, 30); }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-41:hover { border-color: highlight; color: highlight; }
+}
+
+.editorbx-root-41:focus { outline: rgb(96, 94, 92) solid 1px; }
+
+.editorbx-root-41:active { background-color: rgb(219, 219, 219); color: rgb=
+(32, 31, 30); }
+
+.editorbx-flexContainer-42 { display: flex; height: 100%; flex-wrap: nowrap=
+; justify-content: center; align-items: center; }
+
+.editorbx-label-43 { margin: 0px 4px; line-height: 100%; display: block; fo=
+nt-weight: 600; }
+
+@font-face { font-family: FabricMDL2Icons; src: url("chrome-extension://gpa=
+iobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.cssfabric-icons-a13498cf.w=
+off") format("woff"); }
+
+.editorbx-css-45 { -webkit-font-smoothing: antialiased; font-style: normal;=
+ font-weight: normal; speak: none; font-family: FabricMDL2Icons; }
+
+.editorbx-root-46 { outline: transparent; position: relative; font-family: =
+"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
+kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
+g: antialiased; font-size: 14px; font-weight: 400; box-sizing: border-box; =
+border: none; display: inline-block; text-decoration: none; text-align: cen=
+ter; cursor: pointer; padding: 0px; border-radius: 2px; min-width: 25px; he=
+ight: 24px; background-color: rgb(255, 255, 255); color: rgb(50, 49, 48); w=
+idth: 25px; margin: 0px; max-height: 24px; min-height: 24px; flex-grow: 0; =
+user-select: none; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-46:focus::after { content: ""; po=
+sition: absolute; inset: 2px; border: 1px solid transparent; outline: rgb(9=
+6, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .ms-Fabric--isFocusVisible .editorbx-root-46:focus::after { inset: -2px; =
+outline-color: buttontext; }
+}
+
+.editorbx-root-46:active > span { position: relative; left: 0px; top: 0px; =
+}
+
+.editorbx-root-46.ms-editor-focus { background-color: transparent; outline:=
+ rgb(96, 94, 92) solid 1px; }
+
+.editorbx-root-46:hover { background-color: rgb(243, 242, 241); color: rgb(=
+32, 31, 30); }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-46:hover { border-color: highlight; color: highlight; }
+}
+
+.editorbx-root-46:focus { outline: rgb(96, 94, 92) solid 1px; }
+
+.editorbx-root-46:active { background-color: rgb(219, 219, 219); color: rgb=
+(32, 31, 30); }
+
+.editorbx-root-47 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
+, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
+sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
+ht: 400; background-color: rgb(255, 255, 255); min-width: 180px; }
+
+.editorbx-container-48:focus { outline: 0px; }
+
+.editorbx-list-49 { list-style-type: none; margin: 0px; padding: 0px; }
+
+.editorbx-header-50 { font-family: "Segoe UI", "Segoe UI Web (West European=
+)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue"=
+, sans-serif; -webkit-font-smoothing: antialiased; font-size: 12px; font-we=
+ight: 600; color: rgb(0, 120, 212); background: none transparent; border: n=
+one; height: 36px; line-height: 36px; cursor: default; padding: 0px 6px; te=
+xt-align: left; user-select: none; }
+
+.editorbx-title-51 { font-size: 16px; padding: 5px 14px; background-color: =
+rgb(237, 235, 233); }
+
+.editorbx-item-52 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
+, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
+sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
+ht: 400; color: rgb(50, 49, 48); position: relative; box-sizing: border-box=
+; }
+
+.editorbx-divider-53 { display: block; height: 1px; background-color: rgb(2=
+37, 235, 233); position: relative; }
+
+.editorbx-root-54 { outline: transparent; position: relative; font-family: =
+"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
+kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
+g: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159, 157=
+); background-color: transparent; border: none; width: 100%; height: 36px; =
+line-height: 36px; display: block; cursor: default; padding: 0px 8px 0px 4p=
+x; text-align: left; pointer-events: none; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-54:focus::after { content: ""; po=
+sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
+: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-54 { color: graytext; opacity: 1; }
+}
+
+.editorbx-splitPrimary-55 { outline: transparent; position: relative; font-=
+family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-syst=
+em, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-=
+smoothing: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, =
+159, 157); background-color: transparent; border: none; width: calc(100% - =
+28px); height: 36px; line-height: 36px; display: block; cursor: default; pa=
+dding: 0px 8px 0px 4px; text-align: left; pointer-events: none; }
+
+.ms-Fabric--isFocusVisible .editorbx-splitPrimary-55:focus::after { content=
+: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255);=
+ outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-splitPrimary-55 { color: graytext; opacity: 1; }
+}
+
+.editorbx-splitMenu-56 { outline: transparent; position: relative; font-fam=
+ily: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system,=
+ BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smo=
+othing: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159=
+, 157); background-color: transparent; border: none; width: 100%; height: 3=
+6px; line-height: 36px; display: block; cursor: default; padding: 0px 8px; =
+text-align: left; flex-basis: 0px; min-width: 28px; pointer-events: none; }
+
+.ms-Fabric--isFocusVisible .editorbx-splitMenu-56:focus::after { content: "=
+"; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); ou=
+tline: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-splitMenu-56 { color: graytext; opacity: 1; }
+}
+
+.editorbx-anchorLink-57 { padding: 0px 8px 0px 4px; text-rendering: auto; c=
+olor: inherit; letter-spacing: normal; word-spacing: normal; text-transform=
+: none; text-indent: 0px; text-shadow: none; text-decoration: none; box-siz=
+ing: border-box; }
+
+.editorbx-linkContent-58 { white-space: nowrap; height: inherit; display: f=
+lex; align-items: center; max-width: 100%; }
+
+.editorbx-linkContentMenu-59 { white-space: nowrap; height: inherit; displa=
+y: flex; align-items: center; max-width: 100%; justify-content: center; }
+
+.editorbx-icon-60 { display: inline-block; min-height: 1px; max-height: 36p=
+x; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: middle; f=
+lex-shrink: 0; color: rgb(161, 159, 157); }
+
+@media only screen and (min-width: 0px) and (max-width: 639px) {
+  .editorbx-icon-60 { font-size: 20px; width: 20px; }
+}
+
+.editorbx-iconColor-61 { color: rgb(0, 120, 212); }
+
+.editorbx-checkmarkIcon-62 { display: inline-block; min-height: 1px; max-he=
+ight: 36px; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: =
+middle; flex-shrink: 0; }
+
+@media only screen and (min-width: 0px) and (max-width: 639px) {
+  .editorbx-checkmarkIcon-62 { font-size: 20px; width: 20px; }
+}
+
+.editorbx-subMenuIcon-63 { height: 36px; line-height: 36px; color: rgb(161,=
+ 159, 157); text-align: center; display: inline-block; vertical-align: midd=
+le; flex-shrink: 0; font-size: 12px; }
+
+.editorbx-subMenuIcon-63:hover { color: rgb(50, 49, 48); }
+
+.editorbx-subMenuIcon-63:active { color: rgb(50, 49, 48); }
+
+@media only screen and (min-width: 0px) and (max-width: 639px) {
+  .editorbx-subMenuIcon-63 { font-size: 16px; }
+}
+
+.editorbx-label-64 { margin: 0px 4px; vertical-align: middle; display: inli=
+ne-block; flex-grow: 1; text-overflow: ellipsis; white-space: nowrap; }
+
+.editorbx-secondaryText-65 { color: rgb(96, 94, 92); padding-left: 20px; te=
+xt-align: right; }
+
+.editorbx-splitContainer-66 { outline: transparent; position: relative; dis=
+play: flex; height: 36px; flex-wrap: nowrap; justify-content: center; align=
+-items: flex-start; }
+
+.ms-Fabric--isFocusVisible .editorbx-splitContainer-66:focus::after { conte=
+nt: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255=
+); outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+.editorbx-screenReaderText-67 { position: absolute; width: 1px; height: 1px=
+; margin: -1px; padding: 0px; border: 0px; overflow: hidden; white-space: n=
+owrap; visibility: hidden; }
+
+.editorbx-root-68 { outline: transparent; position: relative; font-family: =
+"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
+kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
+g: antialiased; font-size: 14px; font-weight: 400; color: rgb(161, 159, 157=
+); background-color: transparent; border: none; width: 100%; height: 36px; =
+line-height: 36px; display: block; cursor: default; padding: 0px 8px 0px 4p=
+x; text-align: left; pointer-events: none; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-68:focus::after { content: ""; po=
+sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
+: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-68 { color: graytext; opacity: 1; }
+}
+
+.editorbx-root-68:hover { background-color: rgb(243, 242, 241); }
+
+.editorbx-root-68:active { background-color: rgb(225, 223, 221); }
+
+.editorbx-root-69 { font-family: "Segoe UI", "Segoe UI Web (West European)"=
+, "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", =
+sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; font-weig=
+ht: 400; position: absolute; display: flex; z-index: 1000000; box-sizing: b=
+order-box; border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.133) 0px 6.4px 1=
+4.4px 0px, rgba(0, 0, 0, 0.11) 0px 1.2px 3.6px 0px; outline: transparent; }
+
+@media screen and (-ms-high-contrast: active), screen and (forced-colors: a=
+ctive) {
+  .editorbx-root-69 { border-width: 1px; border-style: solid; border-color:=
+ windowtext; }
+}
+
+.editorbx-calloutMain-70 { background-color: rgb(255, 255, 255); overflow: =
+hidden; position: relative; width: 100%; border-radius: 2px; }
+
+.editorbx-css-71:focus { outline: none; }
+
+.editorbx-root-72 { outline: transparent; position: relative; font-family: =
+"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
+kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
+g: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, 48); =
+background-color: transparent; border: none; width: 100%; height: 36px; lin=
+e-height: 36px; display: block; cursor: pointer; padding: 0px 8px 0px 4px; =
+text-align: left; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-72:focus::after { content: ""; po=
+sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
+: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+.editorbx-root-72:hover { background-color: rgb(243, 242, 241); color: rgb(=
+32, 31, 30); }
+
+.editorbx-root-72:hover .ms-ContextualMenu-icon { color: rgb(16, 110, 190);=
+ }
+
+.editorbx-root-72:hover .ms-ContextualMenu-submenuIcon { color: rgb(50, 49,=
+ 48); }
+
+.editorbx-root-72:active { background-color: rgb(237, 235, 233); }
+
+.editorbx-root-72:active .ms-ContextualMenu-icon { color: rgb(0, 90, 158); =
+}
+
+.editorbx-root-72:active .ms-ContextualMenu-submenuIcon { color: rgb(50, 49=
+, 48); }
+
+.ms-Fabric--isFocusVisible .editorbx-root-72:focus { background-color: rgb(=
+255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-root-72:focus:hover { background-color=
+: rgb(255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-root-72:hover { background: inherit; }
+
+.editorbx-splitPrimary-73 { outline: transparent; position: relative; font-=
+family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-syst=
+em, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-=
+smoothing: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 4=
+9, 48); background-color: transparent; border: none; width: calc(100% - 28p=
+x); height: 36px; line-height: 36px; display: block; cursor: pointer; paddi=
+ng: 0px 8px 0px 4px; text-align: left; }
+
+.ms-Fabric--isFocusVisible .editorbx-splitPrimary-73:focus::after { content=
+: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255);=
+ outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+.editorbx-splitPrimary-73:hover { background-color: rgb(243, 242, 241); col=
+or: rgb(32, 31, 30); }
+
+.editorbx-splitPrimary-73:hover .ms-ContextualMenu-icon { color: rgb(16, 11=
+0, 190); }
+
+.editorbx-splitPrimary-73:hover .ms-ContextualMenu-submenuIcon { color: rgb=
+(50, 49, 48); }
+
+.editorbx-splitPrimary-73:hover ~ .ms-ContextualMenu-splitMenu { background=
+-color: rgb(243, 242, 241); color: rgb(32, 31, 30); }
+
+.editorbx-splitPrimary-73:hover ~ .ms-ContextualMenu-splitMenu .ms-Contextu=
+alMenu-icon { color: rgb(16, 110, 190); }
+
+.editorbx-splitPrimary-73:hover ~ .ms-ContextualMenu-splitMenu .ms-Contextu=
+alMenu-submenuIcon { color: rgb(50, 49, 48); }
+
+.editorbx-splitPrimary-73:active { background-color: rgb(237, 235, 233); }
+
+.editorbx-splitPrimary-73:active .ms-ContextualMenu-icon { color: rgb(0, 90=
+, 158); }
+
+.editorbx-splitPrimary-73:active .ms-ContextualMenu-submenuIcon { color: rg=
+b(50, 49, 48); }
+
+.ms-Fabric--isFocusVisible .editorbx-splitPrimary-73:focus { background-col=
+or: rgb(255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-splitPrimary-73:focus:hover { backgrou=
+nd-color: rgb(255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-splitPrimary-73:hover { background: in=
+herit; }
+
+.editorbx-splitMenu-74 { outline: transparent; position: relative; font-fam=
+ily: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system,=
+ BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smo=
+othing: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, =
+48); background-color: transparent; border: none; width: 100%; height: 36px=
+; line-height: 36px; display: block; cursor: pointer; padding: 0px 8px; tex=
+t-align: left; flex-basis: 0px; min-width: 28px; }
+
+.ms-Fabric--isFocusVisible .editorbx-splitMenu-74:focus::after { content: "=
+"; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); ou=
+tline: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+.editorbx-splitMenu-74:hover { background-color: rgb(243, 242, 241); color:=
+ rgb(32, 31, 30); }
+
+.editorbx-splitMenu-74:hover .ms-ContextualMenu-icon { color: rgb(16, 110, =
+190); }
+
+.editorbx-splitMenu-74:hover .ms-ContextualMenu-submenuIcon { color: rgb(50=
+, 49, 48); }
+
+.editorbx-splitMenu-74:active { background-color: rgb(237, 235, 233); }
+
+.editorbx-splitMenu-74:active .ms-ContextualMenu-icon { color: rgb(0, 90, 1=
+58); }
+
+.editorbx-splitMenu-74:active .ms-ContextualMenu-submenuIcon { color: rgb(5=
+0, 49, 48); }
+
+.ms-Fabric--isFocusVisible .editorbx-splitMenu-74:focus { background-color:=
+ rgb(255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-splitMenu-74:focus:hover { background-=
+color: rgb(255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-splitMenu-74:hover { background: inher=
+it; }
+
+.editorbx-icon-75 { display: inline-block; min-height: 1px; max-height: 36p=
+x; font-size: 16px; width: 16px; margin: 0px 4px; vertical-align: middle; f=
+lex-shrink: 0; }
+
+@media only screen and (min-width: 0px) and (max-width: 639px) {
+  .editorbx-icon-75 { font-size: 20px; width: 20px; }
+}
+
+.editorbx-subMenuIcon-76 { height: 36px; line-height: 36px; color: rgb(96, =
+94, 92); text-align: center; display: inline-block; vertical-align: middle;=
+ flex-shrink: 0; font-size: 12px; }
+
+.editorbx-subMenuIcon-76:hover { color: rgb(50, 49, 48); }
+
+.editorbx-subMenuIcon-76:active { color: rgb(50, 49, 48); }
+
+@media only screen and (min-width: 0px) and (max-width: 639px) {
+  .editorbx-subMenuIcon-76 { font-size: 16px; }
+}
+
+.editorbx-splitContainer-77 { outline: transparent; position: relative; dis=
+play: flex; height: 36px; flex-wrap: nowrap; justify-content: center; align=
+-items: flex-start; }
+
+.ms-Fabric--isFocusVisible .editorbx-splitContainer-77:focus::after { conte=
+nt: ""; position: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255=
+); outline: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+.ms-Fabric--isFocusVisible .editorbx-splitContainer-77:focus { background-c=
+olor: rgb(255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-splitContainer-77:focus:hover { backgr=
+ound-color: rgb(255, 255, 255); }
+
+.editorbx-root-78 { outline: transparent; position: relative; font-family: =
+"Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, Blin=
+kMacSystemFont, Roboto, "Helvetica Neue", sans-serif; -webkit-font-smoothin=
+g: antialiased; font-size: 14px; font-weight: 400; color: rgb(50, 49, 48); =
+background-color: transparent; border: none; width: 100%; height: 36px; lin=
+e-height: 36px; display: block; cursor: pointer; padding: 0px 8px 0px 4px; =
+text-align: left; }
+
+.ms-Fabric--isFocusVisible .editorbx-root-78:focus::after { content: ""; po=
+sition: absolute; inset: 1px; border: 1px solid rgb(255, 255, 255); outline=
+: rgb(96, 94, 92) solid 1px; z-index: 1; }
+
+.editorbx-root-78:hover { background-color: rgb(243, 242, 241); color: rgb(=
+32, 31, 30); }
+
+.editorbx-root-78:hover .ms-ContextualMenu-icon { color: rgb(16, 110, 190);=
+ }
+
+.editorbx-root-78:hover .ms-ContextualMenu-submenuIcon { color: rgb(50, 49,=
+ 48); }
+
+.editorbx-root-78:active { background-color: rgb(225, 223, 221); }
+
+.editorbx-root-78:active .ms-ContextualMenu-icon { color: rgb(0, 90, 158); =
+}
+
+.editorbx-root-78:active .ms-ContextualMenu-submenuIcon { color: rgb(50, 49=
+, 48); }
+
+.ms-Fabric--isFocusVisible .editorbx-root-78:focus { background-color: rgb(=
+255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-root-78:focus:hover { background-color=
+: rgb(255, 255, 255); }
+
+.ms-Fabric--isFocusVisible .editorbx-root-78:hover { background: inherit; }
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://192.168.1.191:64964/styles.css
 
 @charset "utf-8";
 
@@ -12625,10 +11342,10 @@ ive; padding-top: 50%; }
 .environment__key { color: rgb(153, 153, 153); }
 
 .testresult-link:not(:last-child)::after { content: ","; }
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://192.168.43.79:60820/plugins/screen-diff/styles.css
+Content-Location: http://192.168.1.191:64964/plugins/screen-diff/styles.css
 
 @charset "utf-8";
 
@@ -12645,7 +11362,7 @@ b(255, 255, 255); position: absolute; overflow: hidden; box-shadow: rgb(170=
 , 170, 170) 2px 0px 1px -1px; }
 
 .screen-diff-error { color: rgb(253, 90, 62); }
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft----
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://gpaiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabric-icons.css
@@ -12654,4 +11371,4 @@ Content-Location: chrome-extension://gpaiobkfhnonedkhhfjpmhdalgeoebfa/fonts/fabr
 
 @font-face { font-family: FabricMDL2Icons; src: url("fabric-icons.woff") fo=
 rmat("woff"); }
-------MultipartBoundary--4YnSSn7LLqfsBNnWeglHxgXrgF1obg81WpqJwjt0ft------
+------MultipartBoundary--DbONtFPlpQqwZvkcaTZIBVDYbE5I0yyiAYU6fVxeV1------
